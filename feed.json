@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2021/05/06/informasjonssamlinger.html",
+				"title": "Informasjonssamlinger",
+				"content_html": "<p>Til å egentlig ta vare på lite av digitale ting, så har jeg fryktelig mange siloer der jeg lagrer ting jeg kommer over. Jeg vingler for eksempel mellom å bruke Instapaper og Pocket for ting jeg aldri kommer til å lese senere (som oftest). Ikke at det gjør noe å vingle, jeg bruker <a href=\"https://zapier.com\">Zapier</a> til å automatisk legge inn i Instapaper det jeg legger inn i Pocket (eller var det omvendt). Men noen ganger bruker jeg den ene over den andre fordi den som er primær ikke alltid har den beste versjonen av det jeg har lagret. Og det jeg legger inn i den ene eller andre kommer til slutt også inn i <a href=\"https://pinboard.in/\">Pinboard</a>, der jeg betaler for arkivering. Men jeg er for lite til flink til å lagre ting i Pinboard manuelt. Og dermed må jeg prøve å bruke Google til å lete etter nåla i høystakken. Og hvem husker vel akkurat hvilken søkefrase som ga veien til nåla forrige gang.</p>\n\n<p>I tillegg er det jo noe som går til Apple Notater (som synker flott over alle dingsene jeg har), og noe går i Microsoft OneNote, som er flink til å lagre nettsider bak betalingsbrannmur fordi jeg er logget inn på siden. Litt for mange andre sånne (også Pocket og Instapaper) bruker sentrale tjenester som ikke nødvendigvis klarer å komme seg inn bak en betalingsbrannmur.</p>\n\n<p>Så, må bli flinkere til å lagre alt det interessante jeg kommer over. Ikke bry meg om tagging osv i f.eks Pinboard. Stol heller på at søkefunksjonen finner det du leter etter.</p>\n\n<p>Men dette er egentlig en lang omvei for å også skrive at jeg har bestemt meg for å bruke Drafts litt mer aktivt, fordi jeg har jo betalt for Drafts Pro helt siden det ble lansert i april 2018, og bruke automatikken i det flotte programmet på en bedre måte. Samt det å legge inn en fast påminnelse med jevne mellomrom for å avgjøre om notater kan slettes eller aksjoneres på.</p>\n\n<p>Samt at jeg måtte jo teste ut om <a href=\"https://actions.getdrafts.com/a/1Hg\">Post to Micro.blog (with Title)</a> fortsatt virket.</p>\n",
+				"content_text": "Til å egentlig ta vare på lite av digitale ting, så har jeg fryktelig mange siloer der jeg lagrer ting jeg kommer over. Jeg vingler for eksempel mellom å bruke Instapaper og Pocket for ting jeg aldri kommer til å lese senere (som oftest). Ikke at det gjør noe å vingle, jeg bruker [Zapier](https://zapier.com) til å automatisk legge inn i Instapaper det jeg legger inn i Pocket (eller var det omvendt). Men noen ganger bruker jeg den ene over den andre fordi den som er primær ikke alltid har den beste versjonen av det jeg har lagret. Og det jeg legger inn i den ene eller andre kommer til slutt også inn i [Pinboard](https://pinboard.in/), der jeg betaler for arkivering. Men jeg er for lite til flink til å lagre ting i Pinboard manuelt. Og dermed må jeg prøve å bruke Google til å lete etter nåla i høystakken. Og hvem husker vel akkurat hvilken søkefrase som ga veien til nåla forrige gang.\n\nI tillegg er det jo noe som går til Apple Notater (som synker flott over alle dingsene jeg har), og noe går i Microsoft OneNote, som er flink til å lagre nettsider bak betalingsbrannmur fordi jeg er logget inn på siden. Litt for mange andre sånne (også Pocket og Instapaper) bruker sentrale tjenester som ikke nødvendigvis klarer å komme seg inn bak en betalingsbrannmur.\n\nSå, må bli flinkere til å lagre alt det interessante jeg kommer over. Ikke bry meg om tagging osv i f.eks Pinboard. Stol heller på at søkefunksjonen finner det du leter etter.\n\nMen dette er egentlig en lang omvei for å også skrive at jeg har bestemt meg for å bruke Drafts litt mer aktivt, fordi jeg har jo betalt for Drafts Pro helt siden det ble lansert i april 2018, og bruke automatikken i det flotte programmet på en bedre måte. Samt det å legge inn en fast påminnelse med jevne mellomrom for å avgjøre om notater kan slettes eller aksjoneres på.\n\nSamt at jeg måtte jo teste ut om [Post to Micro.blog (with Title)](https://actions.getdrafts.com/a/1Hg) fortsatt virket.\n",
+				"date_published": "2021-05-06T21:01:18+02:00",
+				"url": "https://teisam.net/2021/05/06/informasjonssamlinger.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/05/hrer-med-jevne.html",
+				
+				"content_html": "<p>Hører med jevne mellomrom på noen podcaster fra <a href=\"https://www.theringer.com/\">The Ringer</a>. Og blant de som prater er det noen som er veldig glad i å bruke «You know what I mean?».</p>\n\n<p>Og det ble litt irriterende når jeg la merke til det. Podcastene kunne ha vært 15%* kortere om de la seg av uvanen</p>\n\n<p>*litt overdrevet</p>\n",
+				"content_text": "Hører med jevne mellomrom på noen podcaster fra [The Ringer](https://www.theringer.com/). Og blant de som prater er det noen som er veldig glad i å bruke «You know what I mean?».\n\nOg det ble litt irriterende når jeg la merke til det. Podcastene kunne ha vært 15%\\* kortere om de la seg av uvanen\n\n\\*litt overdrevet\n",
+				"date_published": "2021-05-05T20:47:06+02:00",
+				"url": "https://teisam.net/2021/05/05/hrer-med-jevne.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/04/greit-at-glenn.html",
+				
+				"content_html": "<p>Greit at Glenn og John i siste <a href=\"https://daringfireball.net/thetalkshow/2021/04/30/ep-313\">The Talk Show</a> ikke husket på at Apple Watch en stund har vært kapabel til å låse opp Mac i diskusjonen om de nye iMacene, touchid og faceid. Dog, kanskje litt mer glemsk å glemme av det samme med tanke på iPhone som tross alt haddde kommet ut samme uke i iOS 14.5</p>\n",
+				"content_text": "Greit at Glenn og John i siste [The Talk Show](https://daringfireball.net/thetalkshow/2021/04/30/ep-313) ikke husket på at Apple Watch en stund har vært kapabel til å låse opp Mac i diskusjonen om de nye iMacene, touchid og faceid. Dog, kanskje litt mer glemsk å glemme av det samme med tanke på iPhone som tross alt haddde kommet ut samme uke i iOS 14.5\n",
+				"date_published": "2021-05-04T21:44:25+02:00",
+				"url": "https://teisam.net/2021/05/04/greit-at-glenn.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/03/har-jo-sett.html",
+				
+				"content_html": "<iframe width=\"600\" height=\"337\" src=\"https://www.youtube-nocookie.com/embed/yKdk1HSxSEY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>Har jo sett litt flere matvideoer på YouTube det siste året, og har jo vært litt fascinert av denne bruken av kosher salt. Men ikke nysgjerrig nok til å faktisk undersøke. Før nå. Når denne videoen kom opp som anbefalt for meg.</p>\n",
+				"content_text": "<iframe width=\"600\" height=\"337\" src=\"https://www.youtube-nocookie.com/embed/yKdk1HSxSEY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nHar jo sett litt flere matvideoer på YouTube det siste året, og har jo vært litt fascinert av denne bruken av kosher salt. Men ikke nysgjerrig nok til å faktisk undersøke. Før nå. Når denne videoen kom opp som anbefalt for meg.\n",
+				"date_published": "2021-05-03T23:03:39+02:00",
+				"url": "https://teisam.net/2021/05/03/har-jo-sett.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/02/mysteria-i-brokenwood.html",
+				
+				"content_html": "<p><a href=\"https://www.imdb.com/title/tt3640276/?ref_=fn_al_tt_1\">Mysteria i Brokenwood</a> er for tiden min fiks av koselige mord. Serie fra New Zealand, så det er jo morsomt å oppleve noe atypisk. I tillegg så er det jo behagelig lengde pr mysterie. Ikke noe trekke ut i tid her nei.</p>\n",
+				"content_text": "[Mysteria i Brokenwood](https://www.imdb.com/title/tt3640276/?ref_=fn_al_tt_1) er for tiden min fiks av koselige mord. Serie fra New Zealand, så det er jo morsomt å oppleve noe atypisk. I tillegg så er det jo behagelig lengde pr mysterie. Ikke noe trekke ut i tid her nei.\n",
+				"date_published": "2021-05-02T19:14:54+02:00",
+				"url": "https://teisam.net/2021/05/02/mysteria-i-brokenwood.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/01/jeg-bestemte-meg.html",
+				
+				"content_html": "<p>Jeg bestemte meg for i <a href=\"https://teisam.net/2021/01/14/i-sommer-s.html\">januar</a> at <a href=\"https://hey.com\">HEY</a> ikke var noe for meg, men stoppet ikke fornyelse da (det eneste grepet jeg tok da var å legge inn en påminnelse noen dager før om å stoppe det). Mest fordi jeg ventet på deres støtte for egne domener.</p>\n\n<p>Når den kom var den jo fryktelig begrenset, i alle fall for en som har flere domener som jeg bruker hos <a href=\"https://www.fastmail.com\">FastMail</a>, uten noen ekstra kostnader. Så nei, det er ikke på grunn av alt oppstyret de siste dagene jeg kommer til å stoppe fornyelse i juli, det er fordi den er for dyr for hva den tilbyr, og ikke passer for min bruk.</p>\n",
+				"content_text": "Jeg bestemte meg for i [januar](https://teisam.net/2021/01/14/i-sommer-s.html) at [HEY](https://hey.com) ikke var noe for meg, men stoppet ikke fornyelse da (det eneste grepet jeg tok da var å legge inn en påminnelse noen dager før om å stoppe det). Mest fordi jeg ventet på deres støtte for egne domener. \n\nNår den kom var den jo fryktelig begrenset, i alle fall for en som har flere domener som jeg bruker hos [FastMail](https://www.fastmail.com), uten noen ekstra kostnader. Så nei, det er ikke på grunn av alt oppstyret de siste dagene jeg kommer til å stoppe fornyelse i juli, det er fordi den er for dyr for hva den tilbyr, og ikke passer for min bruk.\n",
+				"date_published": "2021-05-01T17:49:44+02:00",
+				"url": "https://teisam.net/2021/05/01/jeg-bestemte-meg.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/04/30/noen-var-misfornyd.html",
+				
+				"content_html": "<p>Noen var misfornøyd med hva Ap mente om forslaget til rusreform.</p>\n\n<p><img src=\"https://teisam.net/uploads/2021/4e8cf2e845.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Noen var misfornøyd med hva Ap mente om forslaget til rusreform. \n\n<img src=\"https://teisam.net/uploads/2021/4e8cf2e845.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-04-30T20:20:18+02:00",
+				"url": "https://teisam.net/2021/04/30/noen-var-misfornyd.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/04/29/ferdig-med-en.html",
+				
+				"content_html": "<p>Ferdig med en gjentitt av <a href=\"https://www.imdb.com/title/tt0496424/?ref_=fn_al_tt_1\">30 Rock</a>. For en strålende serie. Og fortsatt fresh, selv om det er noen vitser som har popkulturelle referanser som var litt mer døgnflue. Så man må tenke tilbake på hva som skjedde og hvorfor det var morsomt.</p>\n",
+				"content_text": "Ferdig med en gjentitt av [30 Rock](https://www.imdb.com/title/tt0496424/?ref_=fn_al_tt_1). For en strålende serie. Og fortsatt fresh, selv om det er noen vitser som har popkulturelle referanser som var litt mer døgnflue. Så man må tenke tilbake på hva som skjedde og hvorfor det var morsomt. \n",
+				"date_published": "2021-04-29T22:09:16+02:00",
+				"url": "https://teisam.net/2021/04/29/ferdig-med-en.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2021/04/28/har-lekt-meg.html",
 				
 				"content_html": "<p>Har lekt meg litt mer med <a href=\"https://tailscale.com\">Tailscale</a> på hjemmenettet og nogle andre maskiner på Internett. Latterlig enkelt. F.eks spennende å kunne bare administrere en VPS via tailscale (basert på wireguard) uten å måtte eksponere ssh mot Internett.</p>\n",
@@ -41,8 +105,8 @@
 			{
 				"id": "http://teisam.micro.blog/2021/04/24/161025.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/07ff5865b2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/07ff5865b2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://teisam.net/uploads/2021/07ff5865b2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://teisam.net/uploads/2021/07ff5865b2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-24T16:10:25+02:00",
 				"url": "https://teisam.net/2021/04/24/161025.html"
 			},
@@ -433,8 +497,8 @@
 			{
 				"id": "http://teisam.micro.blog/2021/03/08/jeg-klikket-meg.html",
 				
-				"content_html": "<p>Jeg klikket meg inn på en antivakskonspikonto for the lolz. Mange linker til jodel (som er kjekt, enda enklere å fake en annen persona) og noen bilder. Deriblant dette.</p>\n\n<p>Nope, vaksinen har ingenting med helsen din å gjøre. Så lenge man anser at mental helse ikke er helse. <em>himle</em></p>\n\n<p><img src=\"uploads/2021/23654938e2.jpg\" width=\"592\" height=\"592\" alt=\"\" /></p>\n",
-				"content_text": "Jeg klikket meg inn på en antivakskonspikonto for the lolz. Mange linker til jodel (som er kjekt, enda enklere å fake en annen persona) og noen bilder. Deriblant dette.\n\nNope, vaksinen har ingenting med helsen din å gjøre. Så lenge man anser at mental helse ikke er helse. *himle*\n\n<img src=\"uploads/2021/23654938e2.jpg\" width=\"592\" height=\"592\" alt=\"\" />\n",
+				"content_html": "<p>Jeg klikket meg inn på en antivakskonspikonto for the lolz. Mange linker til jodel (som er kjekt, enda enklere å fake en annen persona) og noen bilder. Deriblant dette.</p>\n\n<p>Nope, vaksinen har ingenting med helsen din å gjøre. Så lenge man anser at mental helse ikke er helse. <em>himle</em></p>\n\n<p><img src=\"https://teisam.net/uploads/2021/23654938e2.jpg\" width=\"592\" height=\"592\" alt=\"\" /></p>\n",
+				"content_text": "Jeg klikket meg inn på en antivakskonspikonto for the lolz. Mange linker til jodel (som er kjekt, enda enklere å fake en annen persona) og noen bilder. Deriblant dette.\n\nNope, vaksinen har ingenting med helsen din å gjøre. Så lenge man anser at mental helse ikke er helse. *himle*\n\n<img src=\"https://teisam.net/uploads/2021/23654938e2.jpg\" width=\"592\" height=\"592\" alt=\"\" />\n",
 				"date_published": "2021-03-08T22:10:25+02:00",
 				"url": "https://teisam.net/2021/03/08/jeg-klikket-meg.html"
 			},
