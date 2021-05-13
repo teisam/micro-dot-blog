@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2021/05/13/himmelspretten-den-mest.html",
+				
+				"content_html": "<p>Himmelspretten, den mest fjollete av alle fridager. Kunne vært erstattet med en fridag på mandag eller fredag i forbindelse med f.eks Unionsoppløsningen.</p>\n\n<p>Ikke rart mai har mange inneklemte arbeidsdager.</p>\n",
+				"content_text": "Himmelspretten, den mest fjollete av alle fridager. Kunne vært erstattet med en fridag på mandag eller fredag i forbindelse med f.eks Unionsoppløsningen.\n\nIkke rart mai har mange inneklemte arbeidsdager.\n",
+				"date_published": "2021-05-13T21:59:28+02:00",
+				"url": "https://teisam.net/2021/05/13/himmelspretten-den-mest.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/12/jeg-er-ikke.html",
+				
+				"content_html": "<p>Jeg er ikke uenig med det godeste Dr. Drang sier i <a href=\"https://leancrew.com/all-this/2021/05/airtime/\">Airtime</a>. Men samtidig har jeg veldig lyst til å se hva en MB ala den i 2015 kan gjøre med M1 eller lignende. Eller mer spesifikt, en ny tolkning av 11 tommeren av MacBook Air. Som er min <a href=\"https://teisam.net/2020/12/30/macs-for-hh.html\">favorittdatamaskin</a> noensinne. Selv om jeg i fjor ble klar over at den hadde en ekkel 16:9 skjerm.</p>\n\n<p>Men MBAM1! er fortsatt en imponerende maskin. Selv om jeg gjerne skulle hatt noe som var bittelitt mindre og lettere.</p>\n",
+				"content_text": "Jeg er ikke uenig med det godeste Dr. Drang sier i [Airtime](https://leancrew.com/all-this/2021/05/airtime/). Men samtidig har jeg veldig lyst til å se hva en MB ala den i 2015 kan gjøre med M1 eller lignende. Eller mer spesifikt, en ny tolkning av 11 tommeren av MacBook Air. Som er min [favorittdatamaskin](https://teisam.net/2020/12/30/macs-for-hh.html) noensinne. Selv om jeg i fjor ble klar over at den hadde en ekkel 16:9 skjerm.\n\nMen MBAM1! er fortsatt en imponerende maskin. Selv om jeg gjerne skulle hatt noe som var bittelitt mindre og lettere.\n",
+				"date_published": "2021-05-12T22:26:09+02:00",
+				"url": "https://teisam.net/2021/05/12/jeg-er-ikke.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/11/etter-at-new.html",
+				
+				"content_html": "<p>Etter at New Taj Mahal dessverre stengte dørene for noen år siden, så har det blitt lite indisk på meg (unntaket <a href=\"https://teisam.net/2021/03/26/om-jeg-sier.html\">keema matar</a>). Men i dag var ukens Foodora-dag, og da ble det Butter Chicken. Og jeg må si at sammenlignet med Taj, så var Gutta fra Calcutta sin litt skuffende</p>\n",
+				"content_text": "Etter at New Taj Mahal dessverre stengte dørene for noen år siden, så har det blitt lite indisk på meg (unntaket [keema matar](https://teisam.net/2021/03/26/om-jeg-sier.html)). Men i dag var ukens Foodora-dag, og da ble det Butter Chicken. Og jeg må si at sammenlignet med Taj, så var Gutta fra Calcutta sin litt skuffende\n",
+				"date_published": "2021-05-11T21:55:07+02:00",
+				"url": "https://teisam.net/2021/05/11/etter-at-new.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/10/a-horse-is.html",
+				
+				"content_html": "<p>«A horse is a horse of course of course»</p>\n\n<p><img src=\"uploads/2021/de1385ddb4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "«A horse is a horse of course of course»\n\n<img src=\"uploads/2021/de1385ddb4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-05-10T19:05:32+02:00",
+				"url": "https://teisam.net/2021/05/10/a-horse-is.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/09/etter-to-halvhjertede.html",
+				
+				"content_html": "<p>Etter to halvhjertede forsøk på å få mobilt bredbånd til å virke i Linux på <a href=\"https://teisam.net/2020/06/01/lenovo-thinkpad-x.html\">Thinkpaden</a> jeg kjøpte i fjor, så forsøkte jeg på nytt igjen i dag. Og jaggu klarte jeg det ikke. Secure Boot var visst det som skapte trøbbel for driver.</p>\n\n<p>Så håper jeg Apple kommer med en Mac med 5G elns.</p>\n",
+				"content_text": "Etter to halvhjertede forsøk på å få mobilt bredbånd til å virke i Linux på [Thinkpaden](https://teisam.net/2020/06/01/lenovo-thinkpad-x.html) jeg kjøpte i fjor, så forsøkte jeg på nytt igjen i dag. Og jaggu klarte jeg det ikke. Secure Boot var visst det som skapte trøbbel for driver.\n\nSå håper jeg Apple kommer med en Mac med 5G elns.\n",
+				"date_published": "2021-05-09T22:12:23+02:00",
+				"url": "https://teisam.net/2021/05/09/etter-to-halvhjertede.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/08/lekingen-med-tailscale.html",
+				
+				"content_html": "<p><a href=\"https://teisam.net/2021/04/28/har-lekt-meg.html\">Lekingen</a> med <a href=\"https://tailscale.com\">Tailscale</a> fortsetter, og i dag har satt opp min server hos <a href=\"https://www.digitalocean.com\">DigitalOcean</a> til å være <a href=\"https://tailscale.com/kb/1103/exit-nodes/\">exit node</a> for mitt lille vpn. Og ettersom det er klienten som bestemmer om den skal bruke exit node eller ei, så er det enkelt å tilpasse bruken ut i fra behov. Og faktisk ha flere exit noder tilgjengelig.</p>\n",
+				"content_text": "[Lekingen](https://teisam.net/2021/04/28/har-lekt-meg.html) med [Tailscale](https://tailscale.com) fortsetter, og i dag har satt opp min server hos [DigitalOcean](https://www.digitalocean.com) til å være [exit node](https://tailscale.com/kb/1103/exit-nodes/) for mitt lille vpn. Og ettersom det er klienten som bestemmer om den skal bruke exit node eller ei, så er det enkelt å tilpasse bruken ut i fra behov. Og faktisk ha flere exit noder tilgjengelig.\n",
+				"date_published": "2021-05-08T20:30:44+02:00",
+				"url": "https://teisam.net/2021/05/08/lekingen-med-tailscale.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/07/skulle-lage-en.html",
+				
+				"content_html": "<p>Skulle lage en allowgroup fil for å begrense hvem som får lov til å bruke ssh til en server. Men i stedet for å lage filen i<br />\n<code>/etc/ssh/sshd_config.d/</code><br />\nble den lagret i<br />\n<code>/etc/sudoers.d/</code></p>\n\n<p>Og da ble jo <code>sudo</code> forvirret. Man får ikke lov å bruke <code>sudo</code>. Og for å fikse feilen, så måtte jeg jo bruke <code>sudo</code>.</p>\n\n<p>Single user mode to the rescue.</p>\n",
+				"content_text": "Skulle lage en allowgroup fil for å begrense hvem som får lov til å bruke ssh til en server. Men i stedet for å lage filen i  \n```/etc/ssh/sshd_config.d/```  \nble den lagret i  \n```/etc/sudoers.d/```  \n\nOg da ble jo ```sudo``` forvirret. Man får ikke lov å bruke ```sudo```. Og for å fikse feilen, så måtte jeg jo bruke ```sudo```.\n\nSingle user mode to the rescue.\n",
+				"date_published": "2021-05-07T11:55:38+02:00",
+				"url": "https://teisam.net/2021/05/07/skulle-lage-en.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/05/06/det-gjorde-jo.html",
+				
+				"content_html": "<p>Det gjorde jo tydeligvis det.</p>\n\n<blockquote>\n<p>Samt at jeg måtte jo teste ut om <a href=\"https://actions.getdrafts.com/a/1Hg\">Post to Micro.blog (with Title)</a> fortsatt virket.</p>\n</blockquote>\n",
+				"content_text": "Det gjorde jo tydeligvis det.\n\n> Samt at jeg måtte jo teste ut om [Post to Micro.blog (with Title)](https://actions.getdrafts.com/a/1Hg) fortsatt virket.\n",
+				"date_published": "2021-05-06T21:03:36+02:00",
+				"url": "https://teisam.net/2021/05/06/det-gjorde-jo.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2021/05/06/informasjonssamlinger.html",
 				"title": "Informasjonssamlinger",
 				"content_html": "<p>Til å egentlig ta vare på lite av digitale ting, så har jeg fryktelig mange siloer der jeg lagrer ting jeg kommer over. Jeg vingler for eksempel mellom å bruke Instapaper og Pocket for ting jeg aldri kommer til å lese senere (som oftest). Ikke at det gjør noe å vingle, jeg bruker <a href=\"https://zapier.com\">Zapier</a> til å automatisk legge inn i Instapaper det jeg legger inn i Pocket (eller var det omvendt). Men noen ganger bruker jeg den ene over den andre fordi den som er primær ikke alltid har den beste versjonen av det jeg har lagret. Og det jeg legger inn i den ene eller andre kommer til slutt også inn i <a href=\"https://pinboard.in/\">Pinboard</a>, der jeg betaler for arkivering. Men jeg er for lite til flink til å lagre ting i Pinboard manuelt. Og dermed må jeg prøve å bruke Google til å lete etter nåla i høystakken. Og hvem husker vel akkurat hvilken søkefrase som ga veien til nåla forrige gang.</p>\n\n<p>I tillegg er det jo noe som går til Apple Notater (som synker flott over alle dingsene jeg har), og noe går i Microsoft OneNote, som er flink til å lagre nettsider bak betalingsbrannmur fordi jeg er logget inn på siden. Litt for mange andre sånne (også Pocket og Instapaper) bruker sentrale tjenester som ikke nødvendigvis klarer å komme seg inn bak en betalingsbrannmur.</p>\n\n<p>Så, må bli flinkere til å lagre alt det interessante jeg kommer over. Ikke bry meg om tagging osv i f.eks Pinboard. Stol heller på at søkefunksjonen finner det du leter etter.</p>\n\n<p>Men dette er egentlig en lang omvei for å også skrive at jeg har bestemt meg for å bruke Drafts litt mer aktivt, fordi jeg har jo betalt for Drafts Pro helt siden det ble lansert i april 2018, og bruke automatikken i det flotte programmet på en bedre måte. Samt det å legge inn en fast påminnelse med jevne mellomrom for å avgjøre om notater kan slettes eller aksjoneres på.</p>\n\n<p>Samt at jeg måtte jo teste ut om <a href=\"https://actions.getdrafts.com/a/1Hg\">Post to Micro.blog (with Title)</a> fortsatt virket.</p>\n",
