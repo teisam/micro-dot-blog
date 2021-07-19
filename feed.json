@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2021/07/19/youre-not-backing.html",
+				
+				"content_html": "<blockquote>\n<p>You’re not backing up enough</p>\n</blockquote>\n\n<p>skriver Jason Snell hos <a href=\"https://sixcolors.com/post/2021/07/youre-not-backing-up-enough/\">Six Colors</a>. Og jupp, det er sikkert sant.</p>\n\n<p>Dog, føler at min bruk av TimeMachine som alternerer mellom å lagre til min Synology NAS og en Samsung T5 ekstern SSD disk, pluss at jeg bruker <a href=\"https://www.arqbackup.com\">Arq</a> til å ta backup til OneDrive (fordelen med å ha misforstått lisensene til MS er at jeg har mulighet til å lage 5 alter ego, hver med 1TB på OneDrive. Så dermed har Arq en egen konto å lagre til), er bedre enn de fleste.</p>\n\n<p>Men forbedringspotensiale er det alltid.</p>\n",
+				"content_text": "> You’re not backing up enough\n\nskriver Jason Snell hos [Six Colors](https://sixcolors.com/post/2021/07/youre-not-backing-up-enough/). Og jupp, det er sikkert sant.\n\nDog, føler at min bruk av TimeMachine som alternerer mellom å lagre til min Synology NAS og en Samsung T5 ekstern SSD disk, pluss at jeg bruker [Arq](https://www.arqbackup.com) til å ta backup til OneDrive (fordelen med å ha misforstått lisensene til MS er at jeg har mulighet til å lage 5 alter ego, hver med 1TB på OneDrive. Så dermed har Arq en egen konto å lagre til), er bedre enn de fleste.\n\nMen forbedringspotensiale er det alltid.\n",
+				"date_published": "2021-07-19T21:44:17+02:00",
+				"url": "https://teisam.net/2021/07/19/youre-not-backing.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/07/18/we-hunt-together.html",
+				
+				"content_html": "<p><a href=\"https://www.imdb.com/title/tt10661302/?ref_=fn_al_tt_1\">We Hunt Together</a> er et velspilt krimdrama. De fire hovedrollene er jo alle superb, med <a href=\"https://www.imdb.com/name/nm1959501/?ref_=tt_cl_t_4\">Babou Ceesay</a> som den sterkeste i rollen som den veldig korrekte og positive DI Jackson Mendy.</p>\n\n<p>En god og kort serie.</p>\n",
+				"content_text": "[We Hunt Together](https://www.imdb.com/title/tt10661302/?ref_=fn_al_tt_1) er et velspilt krimdrama. De fire hovedrollene er jo alle superb, med [Babou Ceesay](https://www.imdb.com/name/nm1959501/?ref_=tt_cl_t_4) som den sterkeste i rollen som den veldig korrekte og positive DI Jackson Mendy.\n\nEn god og kort serie.\n",
+				"date_published": "2021-07-18T20:58:05+02:00",
+				"url": "https://teisam.net/2021/07/18/we-hunt-together.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/07/17/gunpowder-milkshake.html",
+				"title": "Gunpowder Milkshake 🍿",
+				"content_html": "<p>Er en <a href=\"https://www.imdb.com/title/tt8368408/?ref_=fn_al_tt_1\">film</a> som er litt <a href=\"https://www.imdb.com/title/tt2911666/?ref_=fn_al_tt_1\">John Wickesque</a>/<a href=\"https://www.imdb.com/title/tt0465602/?ref_=nm_flmg_act_30\">Shot&rsquo;em Upesque</a>/utallige andre lignende filmer.</p>\n\n<p>En del solo helt som er super dyktig, en del stilisert vold, en del stilisert våpenbruk.</p>\n\n<p>Og det var underholdende. Og sebart. <a href=\"https://www.imdb.com/name/nm2394794/?ref_=tt_cl_t_1\">Karen Gillian</a> er et sjarmtroll. Og kvartetten Headey, Bassett, Yeoh og Gugino sparker rompe.</p>\n",
+				"content_text": "Er en [film](https://www.imdb.com/title/tt8368408/?ref_=fn_al_tt_1) som er litt [John Wickesque](https://www.imdb.com/title/tt2911666/?ref_=fn_al_tt_1)/[Shot'em Upesque](https://www.imdb.com/title/tt0465602/?ref_=nm_flmg_act_30)/utallige andre lignende filmer.\n\nEn del solo helt som er super dyktig, en del stilisert vold, en del stilisert våpenbruk.\n\nOg det var underholdende. Og sebart. [Karen Gillian](https://www.imdb.com/name/nm2394794/?ref_=tt_cl_t_1) er et sjarmtroll. Og kvartetten Headey, Bassett, Yeoh og Gugino sparker rompe.\n",
+				"date_published": "2021-07-17T22:00:46+02:00",
+				"url": "https://teisam.net/2021/07/17/gunpowder-milkshake.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/07/16/uten-ha-regnet.html",
+				
+				"content_html": "<p>Uten å ha regnet på det så startet jeg min gjentitt av <a href=\"https://www.imdb.com/title/tt10986410/?ref_=ttep_ep_tt\">Ted Lasso</a> akkurat i tide til å se en episode om dagen og være ferdig når sesong 2 har premiere.</p>\n\n<p>Timing.</p>\n",
+				"content_text": "Uten å ha regnet på det så startet jeg min gjentitt av [Ted Lasso](https://www.imdb.com/title/tt10986410/?ref_=ttep_ep_tt) akkurat i tide til å se en episode om dagen og være ferdig når sesong 2 har premiere.\n\nTiming.\n",
+				"date_published": "2021-07-16T20:42:00+02:00",
+				"url": "https://teisam.net/2021/07/16/uten-ha-regnet.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/07/15/har-begynt-teste.html",
+				
+				"content_html": "<p>Har begynt å teste <a href=\"https://raindrop.io\">Raindrop</a> litt for å sjekke om det er en grei erstatter for <a href=\"https://pinboard.in/\">Pinboard</a>. Første inntrykk er jo i så måte positivt.</p>\n",
+				"content_text": "Har begynt å teste [Raindrop](https://raindrop.io) litt for å sjekke om det er en grei erstatter for [Pinboard](https://pinboard.in/). Første inntrykk er jo i så måte positivt.\n",
+				"date_published": "2021-07-15T22:16:44+02:00",
+				"url": "https://teisam.net/2021/07/15/har-begynt-teste.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/07/14/skulle-se-en.html",
+				
+				"content_html": "<p>Skulle se en video av det nye <a href=\"https://www.companyofheroes.com\">Company of Heroes 3</a> på <a href=\"https://www.youtube.com\">YouTube</a>. Videoen var aldersbegrenset, og jeg trodde det var nok å logge inn med Googlekontoen min. Neida, jeg måtte enten bruke et betalingskort, eller sende inn et bilde av gyldig legitimasjon som førerkort eller pass for å bekrefte alderen min.</p>\n\n<p>Nope. Nope. Nopety nope.</p>\n\n<p>Har jo bare hatt Googlekontoen siden juni 2004, så google burde jo kunne regne seg frem til at jeg er minst 17 år gammel.</p>\n",
+				"content_text": "Skulle se en video av det nye [Company of Heroes 3](https://www.companyofheroes.com) på [YouTube](https://www.youtube.com). Videoen var aldersbegrenset, og jeg trodde det var nok å logge inn med Googlekontoen min. Neida, jeg måtte enten bruke et betalingskort, eller sende inn et bilde av gyldig legitimasjon som førerkort eller pass for å bekrefte alderen min.\n\nNope. Nope. Nopety nope.\n\nHar jo bare hatt Googlekontoen siden juni 2004, så google burde jo kunne regne seg frem til at jeg er minst 17 år gammel.\n",
+				"date_published": "2021-07-14T21:59:09+02:00",
+				"url": "https://teisam.net/2021/07/14/skulle-se-en.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/07/14/loki-ferdig-betittet.html",
+				
+				"content_html": "<p><a href=\"https://www.imdb.com/title/tt9140554/\">Loki</a> ferdig betittet. Skjønner ikke bæra av historien, det har jeg lest alt for lite av tegneseriene til å kunne forstå. Men jeg liker det. God underholding er god underholdning.</p>\n",
+				"content_text": "[Loki](https://www.imdb.com/title/tt9140554/) ferdig betittet. Skjønner ikke bæra av historien, det har jeg lest alt for lite av tegneseriene til å kunne forstå. Men jeg liker det. God underholding er god underholdning.\n",
+				"date_published": "2021-07-14T20:53:36+02:00",
+				"url": "https://teisam.net/2021/07/14/loki-ferdig-betittet.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/07/13/en-l-eller.html",
+				
+				"content_html": "<p>En øl eller to etter arbeid, mens man jobber seg igjennom køen i Pocket og Unread. Og overhører samtaler som er umulige å parodiere fordi de høres ut som parodier.</p>\n\n<p><img src=\"https://teisam.net/uploads/2021/e114a375e7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "En øl eller to etter arbeid, mens man jobber seg igjennom køen i Pocket og Unread. Og overhører samtaler som er umulige å parodiere fordi de høres ut som parodier. \n\n<img src=\"https://teisam.net/uploads/2021/e114a375e7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-13T19:10:46+02:00",
+				"url": "https://teisam.net/2021/07/13/en-l-eller.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/07/12/windows.html",
+				"title": "Windows 11",
+				"content_html": "<p>Det er selvsagt både alt for tidlig å konkludere, men det skal sies at Windows 11 både på papiret (aka skjermskudd) og i bruk (med utviklerversjonen på min Thinkpad) ser ut som en versjon av Windows som begynner å nærme seg noe jeg kan tolerere å  måtte bruke om noen holder en ladd pistol mot mitt hode.</p>\n\n<p>Mens Windows 10 tidlig så spennende ut på bilder, så ble den etter min mening alt for flat i bruk. Litt dybde er påkrevd. Akkurat her viser Windows 11 litt lovende takter.</p>\n\n<p>Mørkemodus er også forbedret. Der 10 rett og slett brukte svart der de hadde brukt hvitt i lyst modus, så bruker de nå en litt mer dusere mørk farge. Ikke ulikt det Apple kom med i Mojave.</p>\n\n<p>Dog, problemet med Windows (etter min ydmyke macOS-brukende ræv som primært bare rører Windows i jobbsammenheng pga to pogrammer (dog, det er jo litt derfor jeg kjøpte denne Thinkpaden i <a href=\"https://teisam.net/2020/06/01/lenovo-thinkpad-x.html\">fjor</a>, for å kunne dille litt mer med Windows)) er jo at du har alle disse <a href=\"https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/\">lagene</a> med forskjellige stilarter. Så lenge den holder seg på de\nnyeste stilartene har jeg ikke problemer med Windows 10 (og sannsynligvis 11), men det er når dialogvinduer fra Windows 7 tiden popper frem jeg får litt problemer. Mest med synet. For de elementene kan være så små.</p>\n\n<p>Eller, jeg kunne vel ha endret skaleringen på skjermen (Thinkpaden har en 3840 x 2160 oppløsning, som jeg kjører med 200% skaleringen, som i bunn og grunn gir meg 1920 x 1080). Det skaper et annet problem, nemlig at det som bruker Windows 10 blir så stort. Så jeg velger det første problemet ettersom det er ikke de stilene jeg støter mest på under min normale bruk.</p>\n\n<p>Hederlig omtale skal også gis til Utforsker vinduet jeg får når jeg trykker på ikonet i oppgavelinja. Det ser ut som et filhåndteringsvindu, og ikke en CAD-applikasjon.</p>\n",
+				"content_text": "Det er selvsagt både alt for tidlig å konkludere, men det skal sies at Windows 11 både på papiret (aka skjermskudd) og i bruk (med utviklerversjonen på min Thinkpad) ser ut som en versjon av Windows som begynner å nærme seg noe jeg kan tolerere å  måtte bruke om noen holder en ladd pistol mot mitt hode. \n\nMens Windows 10 tidlig så spennende ut på bilder, så ble den etter min mening alt for flat i bruk. Litt dybde er påkrevd. Akkurat her viser Windows 11 litt lovende takter.\n\nMørkemodus er også forbedret. Der 10 rett og slett brukte svart der de hadde brukt hvitt i lyst modus, så bruker de nå en litt mer dusere mørk farge. Ikke ulikt det Apple kom med i Mojave.\n\nDog, problemet med Windows (etter min ydmyke macOS-brukende ræv som primært bare rører Windows i jobbsammenheng pga to pogrammer (dog, det er jo litt derfor jeg kjøpte denne Thinkpaden i [fjor](https://teisam.net/2020/06/01/lenovo-thinkpad-x.html), for å kunne dille litt mer med Windows)) er jo at du har alle disse [lagene](https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/) med forskjellige stilarter. Så lenge den holder seg på de\nnyeste stilartene har jeg ikke problemer med Windows 10 (og sannsynligvis 11), men det er når dialogvinduer fra Windows 7 tiden popper frem jeg får litt problemer. Mest med synet. For de elementene kan være så små. \n\nEller, jeg kunne vel ha endret skaleringen på skjermen (Thinkpaden har en 3840 x 2160 oppløsning, som jeg kjører med 200% skaleringen, som i bunn og grunn gir meg 1920 x 1080). Det skaper et annet problem, nemlig at det som bruker Windows 10 blir så stort. Så jeg velger det første problemet ettersom det er ikke de stilene jeg støter mest på under min normale bruk.\n\nHederlig omtale skal også gis til Utforsker vinduet jeg får når jeg trykker på ikonet i oppgavelinja. Det ser ut som et filhåndteringsvindu, og ikke en CAD-applikasjon.\n",
+				"date_published": "2021-07-12T22:48:04+02:00",
+				"url": "https://teisam.net/2021/07/12/windows.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2021/07/11/valley-of-tears.html",
 				"title": "Valley of Tears 📺",
 				"content_html": "<p>Har den siste uken sett den israelske serien <a href=\"https://www.imdb.com/title/tt8190688/?ref_=fn_al_tt_1\">Valley of Tears</a> som omhandler de første dagene av <a href=\"https://en.wikipedia.org/wiki/Yom_Kippur_War\">Yom Kippur War/Ramadan War/the October War/the 1973 Arab-Israeli War/Fourth Arab-Israeli War</a> (kjært barn har mange navn). Visstnok den dyreste serien som har vært produsert i Israel, og det vises. På godt og vondt.</p>\n\n<p>Den har helt klart ressurser bak seg, men mange av løsningene man bruker i serien er jo også type kreative, ikke noe man har kastet mye penger og statister på som en typisk HBO-produksjon (ikke for å ta i fra kreativiteten til de som står bak serier med enda flere penger).</p>\n\n<p>Serien fokuserer på krigens start i <a href=\"https://en.wikipedia.org/wiki/Golan_Heights\">Golanhøydene</a> i starten av krigen. Yoav som er soldat på Hermonfjellet, Avinoam som er nerd og etterretningssoldat samme sted. Vi følger også stridsvognsoldatene Alush, Marco og Malachi (som har både en intern konflikt og en konflikt med det israelske samfunnet. Kjenner ikke nok til dette, men virket som det hadde noe med graden av hvor jødisk de anså å være av andre jøder). Vi har en far/sønn historie med forfatter og journalist Meni, og hans sønn Yoni, som er oppvokst i Frankrike og er soldat i IDF. Og seriens kvinnelige alibi er Dafna (som har Yoav som kjæreste).</p>\n\n<p>Hovedfokus er på Alush, Marco og Malachi, med Meni sitt forsøk på å oppnå kontakt med Yoni igjen som en god nummer to. Til å være en serie som er litt mer episk enn de fleste, så har den egentlig et lite persongalleri, og relativt liten bruk av statister. Det liker jeg godt.</p>\n\n<p>Alt i alt en severdig serie, interessante rollefigurer, og man klarer å enkelt å holde styr på de alle. Den er både en dyr produksjon, og samtidig så klarer man å se bruken av kreative men billigere løsninger. Uten at det tar noe i fra historiefortellingen.</p>\n",
