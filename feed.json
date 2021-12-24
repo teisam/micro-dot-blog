@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2021/12/24/its-the-holiday.html",
+				
+				"content_html": "<p><a href=\"https://castro.fm/episode/5MkaqT\">It&rsquo;s The Holiday Draft!!!</a></p>\n\n<p>Den beste nye juletradisjonen er kaosepisoden av Poscast der en stadig større gjeng velger høytidsrelaterte ting.</p>\n",
+				"content_text": " [It's The Holiday Draft!!!](https://castro.fm/episode/5MkaqT)\n\nDen beste nye juletradisjonen er kaosepisoden av Poscast der en stadig større gjeng velger høytidsrelaterte ting. \n",
+				"date_published": "2021-12-24T14:34:04+01:00",
+				"url": "https://teisam.net/2021/12/24/its-the-holiday.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/12/23/kram-sn.html",
+				
+				"content_html": "<p>Kram snø.</p>\n\n<p><img src=\"uploads/2021/3e1064fe23.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Kram snø. \n\n<img src=\"uploads/2021/3e1064fe23.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-23T21:36:30+01:00",
+				"url": "https://teisam.net/2021/12/23/kram-sn.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/12/22/dagen-etter-snfall.html",
+				
+				"content_html": "<p>Dagen etter snøfall er så smekkert.</p>\n\n<p><img src=\"uploads/2021/96039c7aa6.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/6e557c3cc0.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dagen etter snøfall er så smekkert. \n\n<img src=\"uploads/2021/96039c7aa6.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/6e557c3cc0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-22T15:02:32+01:00",
+				"url": "https://teisam.net/2021/12/22/dagen-etter-snfall.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/12/21/synes-jo-adam.html",
+				
+				"content_html": "<p>Synes jo <a href=\"https://www.adamragusea.com\">Adam Ragusea</a> har noen interessante videoer på YouTube, men i dag poppet det opp en litt merkelig video fra 2019 via algoritmen til YouTube, du vet, den som forvitrer demokratiet og fører til folkemord. Den algoritmen.</p>\n\n<iframe width=\"600\" height=\"338\" src=\"https://www.youtube-nocookie.com/embed/TE8xg3d8dBg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>Synes jo eksempelet om pastaboksen er litt «hæh». Samme med krafta. Tørr pasta, dette velkjente produktet som ikke tåler å bli lagret så snart esken er åpnet. Og skulle virkelig en amerikanisert versjon av Gordon sin Sheperd&rsquo;s pie ha 3ggr så mye kyllingkraft i seg fordi det er standardstørrelsen for kraft i USA?</p>\n\n<p>Litt av treningen man får med å lage mat hjemme er jo faktisk å utnytte det man kjøper inn over flere retter. Sånn at du bruker opp pastaboksene. Og kyllingkraften.</p>\n",
+				"content_text": "Synes jo [Adam Ragusea](https://www.adamragusea.com) har noen interessante videoer på YouTube, men i dag poppet det opp en litt merkelig video fra 2019 via algoritmen til YouTube, du vet, den som forvitrer demokratiet og fører til folkemord. Den algoritmen.\n\n<iframe width=\"600\" height=\"338\" src=\"https://www.youtube-nocookie.com/embed/TE8xg3d8dBg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nSynes jo eksempelet om pastaboksen er litt «hæh». Samme med krafta. Tørr pasta, dette velkjente produktet som ikke tåler å bli lagret så snart esken er åpnet. Og skulle virkelig en amerikanisert versjon av Gordon sin Sheperd's pie ha 3ggr så mye kyllingkraft i seg fordi det er standardstørrelsen for kraft i USA?\n\nLitt av treningen man får med å lage mat hjemme er jo faktisk å utnytte det man kjøper inn over flere retter. Sånn at du bruker opp pastaboksene. Og kyllingkraften.\n",
+				"date_published": "2021-12-21T23:42:50+01:00",
+				"url": "https://teisam.net/2021/12/21/synes-jo-adam.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/12/20/215050.html",
+				
+				"content_html": "<p><img src=\"uploads/2021/b8d3e9fa56.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/b8d3e9fa56.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-20T21:50:50+01:00",
+				"url": "https://teisam.net/2021/12/20/215050.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/12/19/argh-sj-sin.html",
+				
+				"content_html": "<p>Argh. SJ sin webside/app støtter ikke Safari sin autoutfylling av engangskode fra meldinger. Må taste inn koden manuelt. Eneste sted jeg har opplevd problemer med det.</p>\n",
+				"content_text": "Argh. SJ sin webside/app støtter ikke Safari sin autoutfylling av engangskode fra meldinger. Må taste inn koden manuelt. Eneste sted jeg har opplevd problemer med det. \n",
+				"date_published": "2021-12-19T22:12:55+01:00",
+				"url": "https://teisam.net/2021/12/19/argh-sj-sin.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/12/18/m-kunne-sies.html",
+				
+				"content_html": "<p>Må kunne sies at siste eventyr med <a href=\"https://www.imdb.com/name/nm0185819/\">Daniel Craig</a> som 007 i <a href=\"https://www.imdb.com/title/tt2382320/\">No Time to Die</a> er en lang film uten å føles langtekkelig. Selv om den sikkert kunne ha vært litt kortere.</p>\n\n<p>Første inntrykk er at den ikke er Casino Royale, men sniker seg inn foran Skyfall. De andre to er meh.</p>\n",
+				"content_text": "Må kunne sies at siste eventyr med [Daniel Craig](https://www.imdb.com/name/nm0185819/) som 007 i [No Time to Die](https://www.imdb.com/title/tt2382320/) er en lang film uten å føles langtekkelig. Selv om den sikkert kunne ha vært litt kortere. \n\nFørste inntrykk er at den ikke er Casino Royale, men sniker seg inn foran Skyfall. De andre to er meh. \n",
+				"date_published": "2021-12-18T22:50:09+01:00",
+				"url": "https://teisam.net/2021/12/18/m-kunne-sies.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2021/12/17/okei-kunne-kanskje.html",
+				
+				"content_html": "<p>Okei, kunne kanskje gjort en bedre jobb med å finne pangrammer.</p>\n\n<p><img src=\"https://teisam.net/uploads/2021/1745a7f318.png\" width=\"502\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Okei, kunne kanskje gjort en bedre jobb med å finne pangrammer. \n\n<img src=\"https://teisam.net/uploads/2021/1745a7f318.png\" width=\"502\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-17T18:14:27+01:00",
+				"url": "https://teisam.net/2021/12/17/okei-kunne-kanskje.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2021/12/16/on-being-wrong.html",
 				
 				"content_html": "<iframe width=\"600\" height=\"340\" src=\"https://www.youtube-nocookie.com/embed/QleRgTBMX88\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p><a href=\"https://youtu.be/QleRgTBMX88\">On being wrong</a>.</p>\n",
@@ -41,8 +105,8 @@
 			{
 				"id": "http://teisam.micro.blog/2021/12/12/for-to-mneder.html",
 				
-				"content_html": "<p>For to måneder siden begynte jeg å lage pizzadeig på en ny <a href=\"https://teisam.net/2021/10/22/har-satt-en.html\">måte</a>. Men har bare satt den dagen før eller samme dag som den skulle brukes. Men forrige helg når jeg satte deig lagde jeg dobbel dose og brukte den siste deigklumpen i går etter 8 dager i kylen. Veldig godt.</p>\n\n<p><img src=\"uploads/2021/22246c0626.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "For to måneder siden begynte jeg å lage pizzadeig på en ny [måte](https://teisam.net/2021/10/22/har-satt-en.html). Men har bare satt den dagen før eller samme dag som den skulle brukes. Men forrige helg når jeg satte deig lagde jeg dobbel dose og brukte den siste deigklumpen i går etter 8 dager i kylen. Veldig godt. \n\n<img src=\"uploads/2021/22246c0626.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>For to måneder siden begynte jeg å lage pizzadeig på en ny <a href=\"https://teisam.net/2021/10/22/har-satt-en.html\">måte</a>. Men har bare satt den dagen før eller samme dag som den skulle brukes. Men forrige helg når jeg satte deig lagde jeg dobbel dose og brukte den siste deigklumpen i går etter 8 dager i kylen. Veldig godt.</p>\n\n<p><img src=\"https://teisam.net/uploads/2021/22246c0626.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "For to måneder siden begynte jeg å lage pizzadeig på en ny [måte](https://teisam.net/2021/10/22/har-satt-en.html). Men har bare satt den dagen før eller samme dag som den skulle brukes. Men forrige helg når jeg satte deig lagde jeg dobbel dose og brukte den siste deigklumpen i går etter 8 dager i kylen. Veldig godt. \n\n<img src=\"https://teisam.net/uploads/2021/22246c0626.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-12T18:16:41+01:00",
 				"url": "https://teisam.net/2021/12/12/for-to-mneder.html"
 			},
