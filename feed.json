@@ -7,12 +7,116 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2022/01/23/181859.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/5300184c53.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/5300184c53.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-23T18:18:59+01:00",
+				"url": "https://teisam.net/2022/01/23/181859.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/22/hadde-to-alternativer.html",
+				
+				"content_html": "<p>Hadde to alternativer, og i motsetning til i går tok jeg det som føltes mest britisk enn det alternativet jeg fant først. Ack.</p>\n\n<blockquote>\n<p>Wordle 217 5/6</p>\n</blockquote>\n\n<p>⬛⬛⬛⬛🟩<br />\n⬛🟩⬛⬛⬛<br />\n⬛🟩🟩⬛🟩<br />\n⬛🟩🟩🟩🟩<br />\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Hadde to alternativer, og i motsetning til i går tok jeg det som føltes mest britisk enn det alternativet jeg fant først. Ack. \n\n> Wordle 217 5/6\n\n⬛⬛⬛⬛🟩  \n⬛🟩⬛⬛⬛  \n⬛🟩🟩⬛🟩  \n⬛🟩🟩🟩🟩  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2022-01-22T12:42:24+01:00",
+				"url": "https://teisam.net/2022/01/22/hadde-to-alternativer.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/21/noe-sier-jeg.html",
+				
+				"content_html": "<p>Noe sier jeg burde tatt litt mer høyde for hvor Josh er født.</p>\n\n<blockquote>\n<p>Wordle 216 4/6</p>\n</blockquote>\n\n<p>⬛🟩⬛⬛⬛<br />\n⬛🟨⬛⬛⬛<br />\n🟩🟩🟩🟩⬛<br />\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Noe sier jeg burde tatt litt mer høyde for hvor Josh er født.\n\n> Wordle 216 4/6\n\n⬛🟩⬛⬛⬛  \n⬛🟨⬛⬛⬛  \n🟩🟩🟩🟩⬛  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2022-01-21T16:18:45+01:00",
+				"url": "https://teisam.net/2022/01/21/noe-sier-jeg.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/20/med-tanke-p.html",
+				
+				"content_html": "<p>Med tanke på prisene, så er jo en artikkel som <a href=\"https://nrkbeta.no/2022/01/18/nerdens-seks-rad-for-a-spare-strom/\">Nerdens seks råd for å spare strøm</a> muligens interessant for de som må tenke på sånt. Men</p>\n\n<p>Å fjerne støv fra der apparater slipper ut varme er smart. Det er kanskje ikke det som sparer mest penger, men det hjelper på levetiden. Å bruke strøm når den er billigst er fornuftig, men det gjelder jo bare de som har sånne muligheter ala Tibber akkurat nå, for resten er det jo ikke innført ennå. Å skaffe seg kunnskap om hva som bruker strøm er fornuftig, men</p>\n\n<blockquote>\n<p>Når du ser at brødristeren trekker over 1000 watt, mens LED-pæren i leselampen bare trekker fem, så kan du heller droppe å riste brød, men beholde leselampen på når du koser deg med en bok.</p>\n</blockquote>\n\n<p>blir jeg litt oppgitt. Det er jo ikke som om brødristeren står og trekker 1000 watt hele tiden, kun de få minuttene du bruker på å riste brød. Og det er jo vel så fornuftig det å kanskje spise opp brødet som ikke er like ferskt lengre.</p>\n\n<p>Bruk gjerne smarte styringsenheter. Bruk kortere tid i dusjen, senk kanskje varmen noen grader. Men som mann er det kanskje litt enklere ettersom vi gjerne liker litt lavere temperatur enn kvinner.</p>\n\n<p>Og selvsagt prøv å unngå strømkrevende apparater. Lufttørk klesvasken i stedet for å brukere tørketrommelen. Fornuftig.</p>\n\n<blockquote>\n<p>Når du skal varme opp tevann eller mat så er det mest økonomisk om du bare varmer opp akkurat det du trenger. Og hell varme drikker over i termos i stedet for å la kaffetrakter eller tekanne stå på i timesvis.</p>\n</blockquote>\n\n<p>Den viktigste grunnen til at du ikke skal bruke mer vann i vannkokeren enn det som er nødvendig er fordi det tar kortere tid. Og grunnen til at kaffetrakter og tekanne ikke skal stå på i timesvis er fordi kvaliteten på innholdet forringes jo lengre tid det går. Det er ikke fordi det koster deg litt ekstra.</p>\n\n<p>Alt i alt minner det om diverse tipsvideoer på YouTube som ber deg slå av alle mulige funksjoner uten at de faktisk har noe kunnskap om hvor mye batteri funksjonen de foreslår å slå av bruker, eller hvilke negative effekter det har på opplevelsen av å følge forslagene.</p>\n",
+				"content_text": "Med tanke på prisene, så er jo en artikkel som [Nerdens seks råd for å spare strøm](https://nrkbeta.no/2022/01/18/nerdens-seks-rad-for-a-spare-strom/) muligens interessant for de som må tenke på sånt. Men\n\nÅ fjerne støv fra der apparater slipper ut varme er smart. Det er kanskje ikke det som sparer mest penger, men det hjelper på levetiden. Å bruke strøm når den er billigst er fornuftig, men det gjelder jo bare de som har sånne muligheter ala Tibber akkurat nå, for resten er det jo ikke innført ennå. Å skaffe seg kunnskap om hva som bruker strøm er fornuftig, men\n\n> Når du ser at brødristeren trekker over 1000 watt, mens LED-pæren i leselampen bare trekker fem, så kan du heller droppe å riste brød, men beholde leselampen på når du koser deg med en bok.\n\nblir jeg litt oppgitt. Det er jo ikke som om brødristeren står og trekker 1000 watt hele tiden, kun de få minuttene du bruker på å riste brød. Og det er jo vel så fornuftig det å kanskje spise opp brødet som ikke er like ferskt lengre.\n\nBruk gjerne smarte styringsenheter. Bruk kortere tid i dusjen, senk kanskje varmen noen grader. Men som mann er det kanskje litt enklere ettersom vi gjerne liker litt lavere temperatur enn kvinner. \n\nOg selvsagt prøv å unngå strømkrevende apparater. Lufttørk klesvasken i stedet for å brukere tørketrommelen. Fornuftig. \n\n> Når du skal varme opp tevann eller mat så er det mest økonomisk om du bare varmer opp akkurat det du trenger. Og hell varme drikker over i termos i stedet for å la kaffetrakter eller tekanne stå på i timesvis.\n\nDen viktigste grunnen til at du ikke skal bruke mer vann i vannkokeren enn det som er nødvendig er fordi det tar kortere tid. Og grunnen til at kaffetrakter og tekanne ikke skal stå på i timesvis er fordi kvaliteten på innholdet forringes jo lengre tid det går. Det er ikke fordi det koster deg litt ekstra.\n\nAlt i alt minner det om diverse tipsvideoer på YouTube som ber deg slå av alle mulige funksjoner uten at de faktisk har noe kunnskap om hvor mye batteri funksjonen de foreslår å slå av bruker, eller hvilke negative effekter det har på opplevelsen av å følge forslagene.\n",
+				"date_published": "2022-01-20T22:33:58+01:00",
+				"url": "https://teisam.net/2022/01/20/med-tanke-p.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/20/wordle.html",
+				
+				"content_html": "<blockquote>\n<p>Wordle 215 5/6</p>\n</blockquote>\n\n<p>⬛🟨🟨⬛⬛<br />\n⬛🟩🟨⬛⬛<br />\n⬛⬛⬛🟨⬛<br />\n🟩🟩🟨🟩⬛<br />\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "> Wordle 215 5/6\n\n⬛🟨🟨⬛⬛  \n⬛🟩🟨⬛⬛  \n⬛⬛⬛🟨⬛  \n🟩🟩🟨🟩⬛  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2022-01-20T16:13:42+01:00",
+				"url": "https://teisam.net/2022/01/20/wordle.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/19/det-jeg-synes.html",
+				
+				"content_html": "<p>Det jeg synes er litt morsomt med når jeg ser andre sine Wordle, er det å tenke noen ganger hva slags ord de brukte når man har litt mer spesielle treff som <a href=\"https://teisam.net/2022/01/04/personlig-hadde-jeg.html\">her</a> eller <a href=\"https://teisam.net/2022/01/16/oh-yeah-wordle.html\">her</a>.</p>\n\n<blockquote>\n<p>Wordle 214 4/6</p>\n</blockquote>\n\n<p>⬛⬛🟨⬛⬛<br />\n⬛🟨⬛🟨⬛<br />\n🟩⬛⬛🟨⬛<br />\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Det jeg synes er litt morsomt med når jeg ser andre sine Wordle, er det å tenke noen ganger hva slags ord de brukte når man har litt mer spesielle treff som [her](https://teisam.net/2022/01/04/personlig-hadde-jeg.html) eller [her](https://teisam.net/2022/01/16/oh-yeah-wordle.html).\n\n> Wordle 214 4/6\n\n⬛⬛🟨⬛⬛  \n⬛🟨⬛🟨⬛  \n🟩⬛⬛🟨⬛  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2022-01-19T19:39:03+01:00",
+				"url": "https://teisam.net/2022/01/19/det-jeg-synes.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/18/the-relentless-moon.html",
+				"title": "The Relentless Moon 📚",
+				"content_html": "<p><a href=\"https://www.goodreads.com/book/show/52381417-the-relentless-moon\">The Relentless Moon</a> er tredje bok av <a href=\"https://www.goodreads.com/author/show/2868678.Mary_Robinette_Kowal\">Mary Robinette Kowal</a> i Lady Astronaut serien. De to første, <a href=\"https://teisam.net/2019/03/15/the-calculating-stars.html\">The Calculating Stars</a> og <a href=\"https://teisam.net/2019/03/29/the-fated-sky.html\">The Fated Sky</a> har jeg skrevet om før.</p>\n\n<p>Har gått litt tregt å lese denne, men fikk endelig fart på meg etter jul. Feilen for det ligger hos meg, ikke hos forfatteren og boken.</p>\n\n<p>Mens den første handlet om den første tiden etter meteorittnedslaget utenfor USAs østkyst og opprettelsen den første månebasen, og den andre handlet mest om det første oppdraget til Mars, så er vi i den tredje tilbake på månen (i hovedsak). Earth First bevegelsen brer om seg, de saboterer IAC og gjør andre aksjoner. Og nå har de infiltrert månen.</p>\n\n<p>Spennende i et miljø der den minste ødeleggelse kan få katastrofale utfall. Og jeg liker denne fortidsscifien eller kontrafaktiske historien, på samme måte som jeg liker <a href=\"https://www.imdb.com/title/tt7772588/\">For All Mankind</a>. Den har nærhet til det som har skjedd, og kan anta andre utfall. Det gjør det hele litt enklere å se for seg hva som skjer.</p>\n\n<p>Anbefales.</p>\n",
+				"content_text": "[The Relentless Moon](https://www.goodreads.com/book/show/52381417-the-relentless-moon) er tredje bok av [Mary Robinette Kowal](https://www.goodreads.com/author/show/2868678.Mary_Robinette_Kowal) i Lady Astronaut serien. De to første, [The Calculating Stars](https://teisam.net/2019/03/15/the-calculating-stars.html) og [The Fated Sky](https://teisam.net/2019/03/29/the-fated-sky.html) har jeg skrevet om før. \n\nHar gått litt tregt å lese denne, men fikk endelig fart på meg etter jul. Feilen for det ligger hos meg, ikke hos forfatteren og boken.\n\nMens den første handlet om den første tiden etter meteorittnedslaget utenfor USAs østkyst og opprettelsen den første månebasen, og den andre handlet mest om det første oppdraget til Mars, så er vi i den tredje tilbake på månen (i hovedsak). Earth First bevegelsen brer om seg, de saboterer IAC og gjør andre aksjoner. Og nå har de infiltrert månen.\n\nSpennende i et miljø der den minste ødeleggelse kan få katastrofale utfall. Og jeg liker denne fortidsscifien eller kontrafaktiske historien, på samme måte som jeg liker [For All Mankind](https://www.imdb.com/title/tt7772588/). Den har nærhet til det som har skjedd, og kan anta andre utfall. Det gjør det hele litt enklere å se for seg hva som skjer.\n\nAnbefales.\n",
+				"date_published": "2022-01-18T20:27:11+01:00",
+				"url": "https://teisam.net/2022/01/18/the-relentless-moon.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/18/wordle.html",
+				
+				"content_html": "<blockquote>\n<p>Wordle 213 4/6</p>\n</blockquote>\n\n<p>⬛🟩🟩⬛⬛<br />\n⬛⬛⬛⬛⬛<br />\n⬛🟩🟩⬛🟨<br />\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "> Wordle 213 4/6\n\n⬛🟩🟩⬛⬛  \n⬛⬛⬛⬛⬛  \n⬛🟩🟩⬛🟨  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2022-01-18T20:25:56+01:00",
+				"url": "https://teisam.net/2022/01/18/wordle.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/17/wordle.html",
+				
+				"content_html": "<blockquote>\n<p>Wordle 212 3/6</p>\n</blockquote>\n\n<p>⬛🟨⬛🟨🟩<br />\n🟩⬛🟨⬛🟩<br />\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "> Wordle 212 3/6\n\n⬛🟨⬛🟨🟩  \n🟩⬛🟨⬛🟩  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2022-01-17T20:28:18+01:00",
+				"url": "https://teisam.net/2022/01/17/wordle.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/17/hadde-egentlig-ikke.html",
+				
+				"content_html": "<p>Hadde egentlig ikke tenkt å kjøpe Apple Watch Series 7, men når jeg fikk tilbud om opp til 915,- i innbytte på en iPad mini 4, så ble det kjøp likevel.</p>\n\n<p>Og i dag fikk jeg bekreftet at jeg får 915,- i innbytte. Det var litt mer enn forventet for en snart 7 år gammel iPad mini.</p>\n",
+				"content_text": "Hadde egentlig ikke tenkt å kjøpe Apple Watch Series 7, men når jeg fikk tilbud om opp til 915,- i innbytte på en iPad mini 4, så ble det kjøp likevel.\r\n\r\nOg i dag fikk jeg bekreftet at jeg får 915,- i innbytte. Det var litt mer enn forventet for en snart 7 år gammel iPad mini.\n",
+				"date_published": "2022-01-17T20:25:07+01:00",
+				"url": "https://teisam.net/2022/01/17/hadde-egentlig-ikke.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/16/oh-yeah-wordle.html",
+				
+				"content_html": "<p>Oh yeah.</p>\n\n<blockquote>\n<p>Wordle 211 2/6</p>\n</blockquote>\n\n<p>🟨🟨🟨🟨⬛<br />\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Oh yeah. \n\n> Wordle 211 2/6\n\n🟨🟨🟨🟨⬛  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2022-01-16T11:02:09+01:00",
+				"url": "https://teisam.net/2022/01/16/oh-yeah-wordle.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/15/ngd-med-denne.html",
+				
+				"content_html": "<p>Nøgd med denne basert på oppstartsordene mine.</p>\n\n<blockquote>\n<p>Wordle 210 3/6</p>\n</blockquote>\n\n<p>🟨⬛⬛⬛⬛<br />\n⬛🟨⬛⬛⬛<br />\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Nøgd med denne basert på oppstartsordene mine. \n\n> Wordle 210 3/6\n\n🟨⬛⬛⬛⬛  \n⬛🟨⬛⬛⬛  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2022-01-15T20:31:20+01:00",
+				"url": "https://teisam.net/2022/01/15/ngd-med-denne.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2022/01/15/aglio-e-olio.html",
 				"title": "Aglio e olio",
 				"content_html": "<iframe width=\"600\" height=\"340\" src=\"https://www.youtube-nocookie.com/embed/CzpVmyzbYLg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>I går lagde jeg for første gang <a href=\"https://en.wikipedia.org/wiki/Spaghetti_aglio_e_olio\">Spaghetti aglio e olio</a>, en rett som er så enkel å lage at den nesten blir skummel å lage. Jeg så på <a href=\"https://www.youtube.com/watch?v=11YXYOfD2LM\">J. Kenji López-Alt</a>, <a href=\"https://www.youtube.com/watch?v=6iwZ0y3QMD0\">Stanley Tucci</a>, <a href=\"https://www.youtube.com/watch?v=bJUiWdM__Qw\">Binging with Babish</a> og <a href=\"https://www.youtube.com/watch?v=a0EyzJsf1eo\">Not Another Cooking Show</a> sine fremgangsmåter for veiledning og inspirasjon.</p>\n\n<p>Fulgte mest sistnevnte, men det var fordi jeg ikke brukte sitron. Læringspunkt var at så lenge sausen bare består av litt olivenolje og noen hvitløksbåter, så er det greit å bruke litt mer pasta enn normalt.</p>\n\n<p>Reaksjonen min lignet på Andrew Rea sin.</p>\n\n<iframe width=\"600\" height=\"340\" src=\"https://www.youtube-nocookie.com/embed/bJUiWdM__Qw?start=197\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>Ingen Scarlett å se tyvärr.</p>\n",
 				"content_text": "<iframe width=\"600\" height=\"340\" src=\"https://www.youtube-nocookie.com/embed/CzpVmyzbYLg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nI går lagde jeg for første gang [Spaghetti aglio e olio](https://en.wikipedia.org/wiki/Spaghetti_aglio_e_olio), en rett som er så enkel å lage at den nesten blir skummel å lage. Jeg så på [J. Kenji López-Alt](https://www.youtube.com/watch?v=11YXYOfD2LM), [Stanley Tucci](https://www.youtube.com/watch?v=6iwZ0y3QMD0), [Binging with Babish](https://www.youtube.com/watch?v=bJUiWdM__Qw) og [Not Another Cooking Show](https://www.youtube.com/watch?v=a0EyzJsf1eo) sine fremgangsmåter for veiledning og inspirasjon.\n\nFulgte mest sistnevnte, men det var fordi jeg ikke brukte sitron. Læringspunkt var at så lenge sausen bare består av litt olivenolje og noen hvitløksbåter, så er det greit å bruke litt mer pasta enn normalt.\n\nReaksjonen min lignet på Andrew Rea sin.\n\n<iframe width=\"600\" height=\"340\" src=\"https://www.youtube-nocookie.com/embed/bJUiWdM__Qw?start=197\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nIngen Scarlett å se tyvärr.\n",
 				"date_published": "2022-01-15T19:25:54+01:00",
 				"url": "https://teisam.net/2022/01/15/aglio-e-olio.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/01/14/wordle.html",
+				
+				"content_html": "<blockquote>\n<p>Wordle 209 5/6</p>\n</blockquote>\n\n<p>🟨⬛⬛⬛⬛<br />\n⬛⬛⬛🟨⬛<br />\n🟩🟩⬛⬛🟩<br />\n🟩🟩⬛🟨🟩<br />\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "> Wordle 209 5/6\n\n🟨⬛⬛⬛⬛  \n⬛⬛⬛🟨⬛  \n🟩🟩⬛⬛🟩  \n🟩🟩⬛🟨🟩  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2022-01-14T18:46:52+01:00",
+				"url": "https://teisam.net/2022/01/14/wordle.html"
 			},
 			{
 				"id": "http://teisam.micro.blog/2022/01/14/det-gikk-fra.html",
