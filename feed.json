@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2022/10/18/jeg-trenger-ikke.html",
+				
+				"content_html": "<p>Jeg trenger ikke en gul iPad i livet mitt. Men jeg har litt lyst på det. I alle fall om bildene holder det de lover.</p>\n",
+				"content_text": "Jeg trenger ikke en gul iPad i livet mitt. Men jeg har litt lyst på det. I alle fall om bildene holder det de lover. \n",
+				"date_published": "2022-10-18T21:55:09+02:00",
+				"url": "https://teisam.net/2022/10/18/jeg-trenger-ikke.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/10/17/det-m-kunne.html",
+				
+				"content_html": "<p>Det må kunne sies at noen ganger er det ekstra godt å trykke på knappen som heter «unfollow» i twitterklienten.</p>\n",
+				"content_text": "Det må kunne sies at noen ganger er det ekstra godt å trykke på knappen som heter «unfollow» i twitterklienten. \n",
+				"date_published": "2022-10-17T18:15:13+02:00",
+				"url": "https://teisam.net/2022/10/17/det-m-kunne.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/10/16/noen-har-sterke.html",
+				
+				"content_html": "<p>Noen har sterke meninger om noen.</p>\n\n<p><img src=\"uploads/2022/0629d05dd5.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Noen har sterke meninger om noen. \n\n<img src=\"uploads/2022/0629d05dd5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-16T17:09:57+02:00",
+				"url": "https://teisam.net/2022/10/16/noen-har-sterke.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/10/15/ack-hadde-en.html",
+				
+				"content_html": "<p>Ack. Hadde en trippel med en hjemmeseier og to uavgjorte. Noe som ble resultatet av kampene. Men bommet på hvem som fikk hjemmeseier. Litt kjedelig, for det er jo en kombo som har greie odds.</p>\n",
+				"content_text": "Ack. Hadde en trippel med en hjemmeseier og to uavgjorte. Noe som ble resultatet av kampene. Men bommet på hvem som fikk hjemmeseier. Litt kjedelig, for det er jo en kombo som har greie odds.\n",
+				"date_published": "2022-10-15T18:17:41+02:00",
+				"url": "https://teisam.net/2022/10/15/ack-hadde-en.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/10/14/frste-forsk-p.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/575e966ded.png\" alt=\"Tower Bridge, sunset, malt av Edward Munch\" title=\"Tower Bridge, sunset, malt av Edward Munch\" border=\"0\" width=\"600\" height=\"600\" /></p>\n\n<p>Første forsøk på å leke med <a href=\"https://github.com/divamgupta/diffusionbee-stable-diffusion-ui\">Diffusion Bee</a>. Basert på sånn cirka følgende input: Tower Bridge, at sunset, painted by Edward Munch.</p>\n",
+				"content_text": "<img src=\"uploads/2022/575e966ded.png\" alt=\"Tower Bridge, sunset, malt av Edward Munch\" title=\"Tower Bridge, sunset, malt av Edward Munch\" border=\"0\" width=\"600\" height=\"600\" />\n\nFørste forsøk på å leke med [Diffusion Bee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui). Basert på sånn cirka følgende input: Tower Bridge, at sunset, painted by Edward Munch.\n",
+				"date_published": "2022-10-14T20:27:39+02:00",
+				"url": "https://teisam.net/2022/10/14/frste-forsk-p.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/10/13/grsdagens-observasjon-om.html",
+				
+				"content_html": "<p><a href=\"https://teisam.net/2022/10/12/har-hrt-mange.html\">Gårsdagens</a> observasjon om havdypblå og dyphavsblå blir litt rarere når jeg oppdager at det er to nyanser av havdypblå.</p>\n\n<p><img src=\"https://teisam.net/uploads/2022/44688cb449.png\" width=\"396\" height=\"484\" alt=\"\"><img src=\"https://teisam.net/uploads/2022/7430dbeec6.png\" width=\"396\" height=\"484\" alt=\"\"><img src=\"https://teisam.net/uploads/2022/3d09868854.png\" width=\"396\" height=\"484\" alt=\"\"></p>\n",
+				"content_text": "[Gårsdagens](https://teisam.net/2022/10/12/har-hrt-mange.html) observasjon om havdypblå og dyphavsblå blir litt rarere når jeg oppdager at det er to nyanser av havdypblå. \n\n\n\n<img src=\"https://teisam.net/uploads/2022/44688cb449.png\" width=\"396\" height=\"484\" alt=\"\"><img src=\"https://teisam.net/uploads/2022/7430dbeec6.png\" width=\"396\" height=\"484\" alt=\"\"><img src=\"https://teisam.net/uploads/2022/3d09868854.png\" width=\"396\" height=\"484\" alt=\"\">\n",
+				"date_published": "2022-10-13T21:33:11+02:00",
+				"url": "https://teisam.net/2022/10/13/grsdagens-observasjon-om.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2022/10/12/har-hrt-mange.html",
 				
 				"content_html": "<p>Har hørt mange snakke om farge-tsaren til Apple. Men etter å ha lekt litt med farger på epleklokken, så tror jeg noen må snakke med fargenavngivings-tsaren (eller i det minste de som oversetter).</p>\n\n<p>Har observert en blåfarge som heter «Havdypblå» og en annen som heter «Dyphavsblå».</p>\n",
@@ -17,8 +65,8 @@
 			{
 				"id": "http://teisam.micro.blog/2022/10/11/skulle-tro-det.html",
 				
-				"content_html": "<p>Skulle tro det var mulig å gi et hint om hva man faktisk selger. Jeg lar meg ikke lure til å besøke siden i alle fall.</p>\n\n<p><img src=\"uploads/2022/03bd20ffa9.png\" width=\"405\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Skulle tro det var mulig å gi et hint om hva man faktisk selger. Jeg lar meg ikke lure til å besøke siden i alle fall. \n\n<img src=\"uploads/2022/03bd20ffa9.png\" width=\"405\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Skulle tro det var mulig å gi et hint om hva man faktisk selger. Jeg lar meg ikke lure til å besøke siden i alle fall.</p>\n\n<p><img src=\"https://teisam.net/uploads/2022/03bd20ffa9.png\" width=\"405\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Skulle tro det var mulig å gi et hint om hva man faktisk selger. Jeg lar meg ikke lure til å besøke siden i alle fall. \n\n<img src=\"https://teisam.net/uploads/2022/03bd20ffa9.png\" width=\"405\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-11T19:56:46+02:00",
 				"url": "https://teisam.net/2022/10/11/skulle-tro-det.html"
 			},
@@ -33,16 +81,16 @@
 			{
 				"id": "http://teisam.micro.blog/2022/10/09/favorittrstiden.html",
 				
-				"content_html": "<p>Favorittårstiden.</p>\n\n<p><img src=\"uploads/2022/3537e37600.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Favorittårstiden. \n\n<img src=\"uploads/2022/3537e37600.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Favorittårstiden.</p>\n\n<p><img src=\"https://teisam.net/uploads/2022/3537e37600.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Favorittårstiden. \n\n<img src=\"https://teisam.net/uploads/2022/3537e37600.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-09T16:11:20+02:00",
 				"url": "https://teisam.net/2022/10/09/favorittrstiden.html"
 			},
 			{
 				"id": "http://teisam.micro.blog/2022/10/08/to-kapitler-inn.html",
 				
-				"content_html": "<p>To kapitler inn så er konklusjonen at dette er en interessant bok.</p>\n\n<p><img src=\"uploads/2022/1544a1ff46.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "To kapitler inn så er konklusjonen at dette er en interessant bok. \n\n<img src=\"uploads/2022/1544a1ff46.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>To kapitler inn så er konklusjonen at dette er en interessant bok.</p>\n\n<p><img src=\"https://teisam.net/uploads/2022/1544a1ff46.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "To kapitler inn så er konklusjonen at dette er en interessant bok. \n\n<img src=\"https://teisam.net/uploads/2022/1544a1ff46.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-08T19:24:19+02:00",
 				"url": "https://teisam.net/2022/10/08/to-kapitler-inn.html"
 			},
