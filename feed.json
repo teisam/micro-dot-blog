@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2022/12/17/p-den-ene.html",
+				
+				"content_html": "<p>På den ene siden.\n<img src=\"https://teisam.net/uploads/2022/392b27db42.jpg\" alt=\"spre\" /></p>\n\n<p>På den andre siden.\n<img src=\"https://teisam.net/uploads/2022/9bc910cf55.jpg\" alt=\"slutt\" /></p>\n",
+				"content_text": "På den ene siden. \n![spre](https://teisam.net/uploads/2022/392b27db42.jpg)\n\nPå den andre siden. \n![slutt](https://teisam.net/uploads/2022/9bc910cf55.jpg)\n",
+				"date_published": "2022-12-17T20:01:06+01:00",
+				"url": "https://teisam.net/2022/12/17/p-den-ene.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/12/16/p-vei-til.html",
+				
+				"content_html": "<p>På vei til Bartistan.</p>\n\n<p><img src=\"uploads/2022/8ff898f391.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "På vei til Bartistan. \n\n<img src=\"uploads/2022/8ff898f391.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-16T22:12:24+01:00",
+				"url": "https://teisam.net/2022/12/16/p-vei-til.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/12/15/gangs-of-london.html",
+				"title": "Gangs of London  (sesong 2) 📺 ",
+				"content_html": "<p>Ferdig med andre sesong av <a href=\"https://www.imdb.com/title/tt7661390/?ref_=fn_al_tt_1\">Gangs of London</a>. En serie som jeg i <a href=\"https://teisam.net/2021/02/08/gangs-of-london.html\">fjor</a> satte pris på (forutsatt at man ikke har problemer med blod og overdreven vold), selv om jeg hadde mine forbehold med tanke på hvordan serien sluttet.</p>\n\n<p>Det er fortsatt en kraftig dose med vold og blod, men fortsatt så veldig overdrevet at det ikke er realistisk slik at for min del er det ikke så ille (så kald og avstumpet er jeg). Hadde det vært mer realisme i serien så hadde det nok vært mer problematisk også for meg.</p>\n\n<p>Og de mektige ukjente i bakgrunnen, de såkalte «Investorene» er fortsatt med, men heldigvis tonet ned denne sesongen.</p>\n\n<p>Så det vi sitter igjen er en serie som ikke annet er et fartøy for å vise overdrevne splatterscener som normalt sett ikke blir vist på TV.</p>\n\n<p>Og jeg liker det. Men 8 episoder i en sesong holder. Men den anbefales fortsatt. Forutsatt at man tåler … osv. Se seriens første episode. Klarer man endringen i tone sånn cirka midt i episoden (med forbehold om TV 2 sine rare oppdelinger av enkelte britiske serier (forbeholdet er korrekt, IMDB sier 9 episoder, TV 2 har 10, men er ganske sikker på at det er i første episode endringen i tone skjer)).</p>\n",
+				"content_text": "Ferdig med andre sesong av [Gangs of London](https://www.imdb.com/title/tt7661390/?ref_=fn_al_tt_1). En serie som jeg i [fjor](https://teisam.net/2021/02/08/gangs-of-london.html) satte pris på (forutsatt at man ikke har problemer med blod og overdreven vold), selv om jeg hadde mine forbehold med tanke på hvordan serien sluttet.\n\nDet er fortsatt en kraftig dose med vold og blod, men fortsatt så veldig overdrevet at det ikke er realistisk slik at for min del er det ikke så ille (så kald og avstumpet er jeg). Hadde det vært mer realisme i serien så hadde det nok vært mer problematisk også for meg.\n\nOg de mektige ukjente i bakgrunnen, de såkalte «Investorene» er fortsatt med, men heldigvis tonet ned denne sesongen.\n\nSå det vi sitter igjen er en serie som ikke annet er et fartøy for å vise overdrevne splatterscener som normalt sett ikke blir vist på TV.\n\nOg jeg liker det. Men 8 episoder i en sesong holder. Men den anbefales fortsatt. Forutsatt at man tåler … osv. Se seriens første episode. Klarer man endringen i tone sånn cirka midt i episoden (med forbehold om TV 2 sine rare oppdelinger av enkelte britiske serier (forbeholdet er korrekt, IMDB sier 9 episoder, TV 2 har 10, men er ganske sikker på at det er i første episode endringen i tone skjer)).\n",
+				"date_published": "2022-12-15T20:24:35+01:00",
+				"url": "https://teisam.net/2022/12/15/gangs-of-london.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/12/14/opplevde-et-personlig.html",
+				
+				"content_html": "<p>Opplevde et personlig nederlag i dag. Måtte ringe til Apple Support.</p>\n\n<p>Men føler ting var litt utenfor min kontroll. Oppdaget at «skjul e-postadressen min» som brukte @privaterelay.appleid.com (er vel for «logg inn med Apple») ikke kom frem, mens den andre funksjonen som vel mer er for Safari og bruker @icloud.com virket.</p>\n\n<p>Andre gangen jeg har kontaktet de. Første gangen var når jeg opplevde at «sol opp/ned» komplikasjonen krasjet epleklokka når jeg kom til Trondheim. En bekjent som også var i Trondheim greide å reprodusere når han la til den komplikasjonen.</p>\n",
+				"content_text": "Opplevde et personlig nederlag i dag. Måtte ringe til Apple Support. \n\nMen føler ting var litt utenfor min kontroll. Oppdaget at «skjul e-postadressen min» som brukte @privaterelay.appleid.com (er vel for «logg inn med Apple») ikke kom frem, mens den andre funksjonen som vel mer er for Safari og bruker @icloud.com virket.\n\nAndre gangen jeg har kontaktet de. Første gangen var når jeg opplevde at «sol opp/ned» komplikasjonen krasjet epleklokka når jeg kom til Trondheim. En bekjent som også var i Trondheim greide å reprodusere når han la til den komplikasjonen.\n",
+				"date_published": "2022-12-14T19:36:17+01:00",
+				"url": "https://teisam.net/2022/12/14/opplevde-et-personlig.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2022/12/13/litt-eklektisk-smak.html",
+				
+				"content_html": "<p>Litt eklektisk smak har jeg vel.</p>\n\n<p><img src=\"uploads/2022/e4a361069f.png\" width=\"427\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Litt eklektisk smak har jeg vel. \n\n<img src=\"uploads/2022/e4a361069f.png\" width=\"427\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-13T09:05:07+01:00",
+				"url": "https://teisam.net/2022/12/13/litt-eklektisk-smak.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2022/12/12/p-fredag-bestemte.html",
 				
 				"content_html": "<p>På fredag bestemte jeg meg for å lage en Frankenkaffe på jobben. Hadde en del rester av diverse kaffebønner, så jeg tømte 4 poser i en kaffekvern og lagde 1,5 liter med kaffe.</p>\n\n<p>Det var en merkelig opplevelse. Den var ikke vond. Men heller ikke god. Den var bare rar.</p>\n",
@@ -25,16 +65,16 @@
 			{
 				"id": "http://teisam.micro.blog/2022/12/11/basert-p-apple.html",
 				
-				"content_html": "<p>Basert på Apple Music sin Replay 2022 spilleliste lagd for meg, så er det klart at musikkvalget til <a href=\"https://www.imdb.com/title/tt13146488/\">Peacemaker</a> falt i smak og at spillelisten for den har gått på «heavy rotation» som de sier på nynorsk.</p>\n\n<p><img src=\"uploads/2022/d414070ea2.png\" width=\"384\" height=\"600\" alt=\"skjermskudd av de ti første låtene på min Replay 2022 liste. \"></p>\n",
-				"content_text": "Basert på Apple Music sin Replay 2022 spilleliste lagd for meg, så er det klart at musikkvalget til [Peacemaker](https://www.imdb.com/title/tt13146488/) falt i smak og at spillelisten for den har gått på «heavy rotation» som de sier på nynorsk.\n\n\n<img src=\"uploads/2022/d414070ea2.png\" width=\"384\" height=\"600\" alt=\"skjermskudd av de ti første låtene på min Replay 2022 liste. \">\n",
+				"content_html": "<p>Basert på Apple Music sin Replay 2022 spilleliste lagd for meg, så er det klart at musikkvalget til <a href=\"https://www.imdb.com/title/tt13146488/\">Peacemaker</a> falt i smak og at spillelisten for den har gått på «heavy rotation» som de sier på nynorsk.</p>\n\n<p><img src=\"https://teisam.net/uploads/2022/d414070ea2.png\" width=\"384\" height=\"600\" alt=\"skjermskudd av de ti første låtene på min Replay 2022 liste. \"></p>\n",
+				"content_text": "Basert på Apple Music sin Replay 2022 spilleliste lagd for meg, så er det klart at musikkvalget til [Peacemaker](https://www.imdb.com/title/tt13146488/) falt i smak og at spillelisten for den har gått på «heavy rotation» som de sier på nynorsk.\n\n\n<img src=\"https://teisam.net/uploads/2022/d414070ea2.png\" width=\"384\" height=\"600\" alt=\"skjermskudd av de ti første låtene på min Replay 2022 liste. \">\n",
 				"date_published": "2022-12-11T18:12:51+01:00",
 				"url": "https://teisam.net/2022/12/11/basert-p-apple.html"
 			},
 			{
 				"id": "http://teisam.micro.blog/2022/12/10/evig-ferie.html",
 				
-				"content_html": "<p>Evig ferie.</p>\n\n<p><img src=\"uploads/2022/0de1aee069.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Evig ferie. \n\n<img src=\"uploads/2022/0de1aee069.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Evig ferie.</p>\n\n<p><img src=\"https://teisam.net/uploads/2022/0de1aee069.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Evig ferie. \n\n<img src=\"https://teisam.net/uploads/2022/0de1aee069.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-10T17:26:40+01:00",
 				"url": "https://teisam.net/2022/12/10/evig-ferie.html"
 			},
@@ -161,8 +201,8 @@
 			{
 				"id": "http://teisam.micro.blog/2022/11/24/ikke-sykler-ikke.html",
 				
-				"content_html": "<p>Ikke sykler jeg. Ikke har jeg bil. Så jeg har egentlig ikke noen sterke meninger om dette. Bortsett fra at jeg misliker privatbilismen sterkt. Og gjerne hadde sett færre parkerte biler i nabolaget.</p>\n\n<p>Og argumentet mindre mangfold kontra mer homogent. Det himles med øynene.</p>\n\n<p><img src=\"uploads/2022/a9c0a19897.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Ikke sykler jeg. Ikke har jeg bil. Så jeg har egentlig ikke noen sterke meninger om dette. Bortsett fra at jeg misliker privatbilismen sterkt. Og gjerne hadde sett færre parkerte biler i nabolaget. \n\nOg argumentet mindre mangfold kontra mer homogent. Det himles med øynene. \n\n<img src=\"uploads/2022/a9c0a19897.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Ikke sykler jeg. Ikke har jeg bil. Så jeg har egentlig ikke noen sterke meninger om dette. Bortsett fra at jeg misliker privatbilismen sterkt. Og gjerne hadde sett færre parkerte biler i nabolaget.</p>\n\n<p>Og argumentet mindre mangfold kontra mer homogent. Det himles med øynene.</p>\n\n<p><img src=\"https://teisam.net/uploads/2022/a9c0a19897.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Ikke sykler jeg. Ikke har jeg bil. Så jeg har egentlig ikke noen sterke meninger om dette. Bortsett fra at jeg misliker privatbilismen sterkt. Og gjerne hadde sett færre parkerte biler i nabolaget. \n\nOg argumentet mindre mangfold kontra mer homogent. Det himles med øynene. \n\n<img src=\"https://teisam.net/uploads/2022/a9c0a19897.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-24T22:06:27+01:00",
 				"url": "https://teisam.net/2022/11/24/ikke-sykler-ikke.html"
 			},
@@ -6321,8 +6361,8 @@
 			{
 				"id": "http://teisam.micro.blog/2021/02/08/gangs-of-london.html",
 				"title": "Gangs of London 📺",
-				"content_html": "<p>Ferdig med <a href=\"https://wwww.imdb.com/title/tt7661390/?ref_=fn_al_tt_1\">Gangs of London</a>. Halvveis var <a href=\"https://teisam.net/2021/01/17/en-p-jobben.html\">jeg</a> var det en klar anbefaling, om man tålte blod og vold i sine serier.</p>\n\n<p>Etter å ha fullført serien, så er vel anbefalingen til stede, men jeg må si at noen av de siste episodene var litt mer skuffende, og i spesielt sesongavslutningen. Den er veldig lagt opp til at den skulle delvis avslutte den første sesongen, men også samtidig gjøre klar grunnen for neste sesong. Men jeg synes den gjorde det på en klossete måte, og som føles som et stilbrudd med de tidligere episodene.</p>\n\n<p>Og basert på hva som skjedde i sesongavslutningen, så er det en viss sjanse for at for min del har blitt mindre interessant.</p>\n\n<p>Men det er fortsatt en severdig første sesong (forutsatt at man tåler … osv), i alle fall frem til siste episode.</p>\n\n<p>Så får man se hva fremtiden bringer. Det virker som om den grove skissen for serien, og evt. krav for fornyelse kanskje kullkastet noen planer. Eller at det er sånn det skulle ende opp med hele tiden, det bare skjedde på en mindre bra måte (i mine øyne).</p>\n",
-				"content_text": "Ferdig med [Gangs of London](https://wwww.imdb.com/title/tt7661390/?ref_=fn_al_tt_1). Halvveis var [jeg](https://teisam.net/2021/01/17/en-p-jobben.html) var det en klar anbefaling, om man tålte blod og vold i sine serier.\n\nEtter å ha fullført serien, så er vel anbefalingen til stede, men jeg må si at noen av de siste episodene var litt mer skuffende, og i spesielt sesongavslutningen. Den er veldig lagt opp til at den skulle delvis avslutte den første sesongen, men også samtidig gjøre klar grunnen for neste sesong. Men jeg synes den gjorde det på en klossete måte, og som føles som et stilbrudd med de tidligere episodene.\n\nOg basert på hva som skjedde i sesongavslutningen, så er det en viss sjanse for at for min del har blitt mindre interessant.\n\nMen det er fortsatt en severdig første sesong (forutsatt at man tåler … osv), i alle fall frem til siste episode.\n\nSå får man se hva fremtiden bringer. Det virker som om den grove skissen for serien, og evt. krav for fornyelse kanskje kullkastet noen planer. Eller at det er sånn det skulle ende opp med hele tiden, det bare skjedde på en mindre bra måte (i mine øyne).\n\n\n",
+				"content_html": "<p>Ferdig med <a href=\"https://www.imdb.com/title/tt7661390/?ref_=fn_al_tt_1\">Gangs of London</a>. Halvveis <a href=\"https://teisam.net/2021/01/17/en-p-jobben.html\">var</a> det en klar anbefaling fra min side, om man tålte blod og vold i sine serier.</p>\n\n<p>Etter å ha fullført serien, så er vel anbefalingen til stede, men jeg må si at noen av de siste episodene var litt mer skuffende, og i spesielt sesongavslutningen. Den er veldig lagt opp til at den skulle delvis avslutte den første sesongen, men også samtidig gjøre klar grunnen for neste sesong. Men jeg synes den gjorde det på en klossete måte, og som føles som et stilbrudd med de tidligere episodene.</p>\n\n<p>Og basert på hva som skjedde i sesongavslutningen, så er det en viss sjanse for at for min del har blitt mindre interessant.</p>\n\n<p>Men det er fortsatt en severdig første sesong (forutsatt at man tåler … osv), i alle fall frem til siste episode.</p>\n\n<p>Så får man se hva fremtiden bringer. Det virker som om den grove skissen for serien, og evt. krav for fornyelse kanskje kullkastet noen planer. Eller at det er sånn det skulle ende opp med hele tiden, det bare skjedde på en mindre bra måte (i mine øyne).</p>\n",
+				"content_text": "Ferdig med [Gangs of London](https://www.imdb.com/title/tt7661390/?ref_=fn_al_tt_1). Halvveis [var](https://teisam.net/2021/01/17/en-p-jobben.html) det en klar anbefaling fra min side, om man tålte blod og vold i sine serier.\n\nEtter å ha fullført serien, så er vel anbefalingen til stede, men jeg må si at noen av de siste episodene var litt mer skuffende, og i spesielt sesongavslutningen. Den er veldig lagt opp til at den skulle delvis avslutte den første sesongen, men også samtidig gjøre klar grunnen for neste sesong. Men jeg synes den gjorde det på en klossete måte, og som føles som et stilbrudd med de tidligere episodene.\n\nOg basert på hva som skjedde i sesongavslutningen, så er det en viss sjanse for at for min del har blitt mindre interessant.\n\nMen det er fortsatt en severdig første sesong (forutsatt at man tåler … osv), i alle fall frem til siste episode.\n\nSå får man se hva fremtiden bringer. Det virker som om den grove skissen for serien, og evt. krav for fornyelse kanskje kullkastet noen planer. Eller at det er sånn det skulle ende opp med hele tiden, det bare skjedde på en mindre bra måte (i mine øyne).\n\n\n",
 				"date_published": "2021-02-08T21:31:38+01:00",
 				"url": "https://teisam.net/2021/02/08/gangs-of-london.html"
 			},
