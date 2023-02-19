@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2023/02/19/135009.html",
+				
+				"content_html": "<p><img src=\"uploads/2023/17ce6df306.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2023/17ce6df306.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-19T13:50:09+01:00",
+				"url": "https://teisam.net/2023/02/19/135009.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/02/18/finnes-det-ikke.html",
+				
+				"content_html": "<p>Finnes det ikke nok land i Afrika til at man kunne slippe å bruke et navn fra kolonitiden, et fiktivt navn fra Marvel og et land som nesten ligner på et reelt navn.</p>\n\n<p><img src=\"uploads/2023/d5147ab651.png\" width=\"600\" height=\"564\" alt=\"\"></p>\n",
+				"content_text": "Finnes det ikke nok land i Afrika til at man kunne slippe å bruke et navn fra kolonitiden, et fiktivt navn fra Marvel og et land som nesten ligner på et reelt navn. \n\n<img src=\"uploads/2023/d5147ab651.png\" width=\"600\" height=\"564\" alt=\"\">\n",
+				"date_published": "2023-02-18T18:56:29+01:00",
+				"url": "https://teisam.net/2023/02/18/finnes-det-ikke.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/02/17/er-litt-frust.html",
+				
+				"content_html": "<p>Er litt frust når man sliter med et problem på jobb, prøver alt mulig mellom himmel og jord. Og løser problemet til slutt. Men er ikke helt sikker på hva man gjorde som til slutt løste floka.</p>\n",
+				"content_text": "Er litt frust når man sliter med et problem på jobb, prøver alt mulig mellom himmel og jord. Og løser problemet til slutt. Men er ikke helt sikker på hva man gjorde som til slutt løste floka. \n",
+				"date_published": "2023-02-17T20:02:49+01:00",
+				"url": "https://teisam.net/2023/02/17/er-litt-frust.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/02/16/har-blitt-utsatt.html",
+				
+				"content_html": "<p>Har blitt utsatt for det jeg bare kan kalle den vakreste og verste powerpointsliden i dag. Et kunstverk i håpløshet.</p>\n",
+				"content_text": "Har blitt utsatt for det jeg bare kan kalle den vakreste og verste powerpointsliden i dag. Et kunstverk i håpløshet. \n",
+				"date_published": "2023-02-16T20:10:05+01:00",
+				"url": "https://teisam.net/2023/02/16/har-blitt-utsatt.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/02/15/220302.html",
+				
+				"content_html": "<p><img src=\"uploads/2023/3c95c14b93.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2023/3c95c14b93.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-15T22:03:02+01:00",
+				"url": "https://teisam.net/2023/02/15/220302.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/02/14/ah-leonard-nimoy.html",
+				
+				"content_html": "<p>Ah, <a href=\"https://www.imdb.com/name/nm0000559/?ref_=tt_cl_t_2\">Leonard Nimoy</a> <a href=\"https://www.imdb.com/title/tt0069900/?ref_=ttep_ep6\">episoden</a> av <a href=\"https://www.imdb.com/title/tt1466074/?ref_=fn_al_tt_1\">Columbo</a>.</p>\n\n<p>Ikke har jeg sett så mye av den originale Star Trek, men det er jaggu meg rart å se Nimoy som noe annet enn Spock. Markant ansikt, selv for de dager. Ikke rart at han ble valgt som Spock.</p>\n",
+				"content_text": "Ah, [Leonard Nimoy](https://www.imdb.com/name/nm0000559/?ref_=tt_cl_t_2) [episoden](https://www.imdb.com/title/tt0069900/?ref_=ttep_ep6) av [Columbo](https://www.imdb.com/title/tt1466074/?ref_=fn_al_tt_1). \n\nIkke har jeg sett så mye av den originale Star Trek, men det er jaggu meg rart å se Nimoy som noe annet enn Spock. Markant ansikt, selv for de dager. Ikke rart at han ble valgt som Spock.\n",
+				"date_published": "2023-02-14T20:25:17+01:00",
+				"url": "https://teisam.net/2023/02/14/ah-leonard-nimoy.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2023/02/13/kong-nils.html",
 				
-				"content_html": "<p>Kong Nils.</p>\n\n<p><img src=\"uploads/2023/13103dca44.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Kong Nils. \n\n<img src=\"uploads/2023/13103dca44.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Kong Nils.</p>\n\n<p><img src=\"https://teisam.net/uploads/2023/13103dca44.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Kong Nils. \n\n<img src=\"https://teisam.net/uploads/2023/13103dca44.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-13T21:49:44+01:00",
 				"url": "https://teisam.net/2023/02/13/kong-nils.html"
 			},
