@@ -7,18 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2023/02/24/oppdaget-at-grsdagens.html",
+				
+				"content_html": "<p>Oppdaget at gårsdagens <a href=\"https://teisam.net/2023/02/23/kremt-om-den.html\">irritasjon</a> har vært rettet mot feil part. Det er Microsoft og Excel jeg skulle ha vært sinna på. Som standard fjerner ledende 0 når man importerer csv.</p>\n\n<blockquote>\n<p><em>kremt</em> Om den fsckings ledende nullen i serienummeret hadde vært så fsckings viktig å ha med når man legger den inn i adminsystemet, burde ikke den ledende nullen vært en del av serienummeret i csven vi laster ned fra supportsiden?</p>\n\n<p>?!?!</p>\n\n<p>Bastards!</p>\n</blockquote>\n",
+				"content_text": "Oppdaget at gårsdagens [irritasjon](https://teisam.net/2023/02/23/kremt-om-den.html) har vært rettet mot feil part. Det er Microsoft og Excel jeg skulle ha vært sinna på. Som standard fjerner ledende 0 når man importerer csv.\n\n> *kremt* Om den fsckings ledende nullen i serienummeret hadde vært så fsckings viktig å ha med når man legger den inn i adminsystemet, burde ikke den ledende nullen vært en del av serienummeret i csven vi laster ned fra supportsiden?\n\n> ?!?!\n\n> Bastards!\n",
+				"date_published": "2023-02-24T11:40:23+01:00",
+				"url": "https://teisam.net/2023/02/24/oppdaget-at-grsdagens.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/02/24/gjett-p-de.html",
+				
+				"content_html": "<p>18 gjett på de tre siste Wordle. En rett. Ikke en god periode.</p>\n",
+				"content_text": "18 gjett på de tre siste Wordle. En rett. Ikke en god periode. \n",
+				"date_published": "2023-02-24T07:43:10+01:00",
+				"url": "https://teisam.net/2023/02/24/gjett-p-de.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/02/23/kremt-om-den.html",
+				
+				"content_html": "<p>*kremt* Om den fsckings ledende nullen i serienummeret hadde vært så fsckings viktig å ha med når man legger den inn i adminsystemet, burde ikke den ledende nullen vært en del av serienummeret i csven vi laster ned fra supportsiden?</p>\n\n<p>?!?!</p>\n\n<p>Bastards!</p>\n",
+				"content_text": "\\*kremt\\* Om den fsckings ledende nullen i serienummeret hadde vært så fsckings viktig å ha med når man legger den inn i adminsystemet, burde ikke den ledende nullen vært en del av serienummeret i csven vi laster ned fra supportsiden?\n\n?!?!\n\nBastards!\n",
+				"date_published": "2023-02-23T21:02:46+01:00",
+				"url": "https://teisam.net/2023/02/23/kremt-om-den.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/02/22/for-en-som.html",
+				
+				"content_html": "<p>For en som vurderer å bytte ut en 10+ år gammel Synology og kassere en microserver som kjører noen linuxer (inkludert en for Plex), så var jo denne <a href=\"https://youtu.be/ek-7aTRmhvE\">videoen</a> en grei gjennomgang av en løsning jeg har tenkt på selv.</p>\n\n<p>Vurderer dog en M2 Pro mini eller neste versjon av Mac Studio (ikke bare for å bruke som NAS altså, men i dobbeltrolle som hovedmaskin og hjemmeserverish).</p>\n",
+				"content_text": "For en som vurderer å bytte ut en 10+ år gammel Synology og kassere en microserver som kjører noen linuxer (inkludert en for Plex), så var jo denne [videoen](https://youtu.be/ek-7aTRmhvE) en grei gjennomgang av en løsning jeg har tenkt på selv. \n\nVurderer dog en M2 Pro mini eller neste versjon av Mac Studio (ikke bare for å bruke som NAS altså, men i dobbeltrolle som hovedmaskin og hjemmeserverish).\n",
+				"date_published": "2023-02-22T22:49:24+01:00",
+				"url": "https://teisam.net/2023/02/22/for-en-som.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/02/21/i-gr-var.html",
+				
+				"content_html": "<p>I går var det 5-års jubileum for å betale for <a href=\"https://micro.blog/\">micro.blog</a>. Før det brukte jeg både Wordpress og Jekyll. Førstnevnte både på egenhånd og betalt. Det er jo klart litt større terskel å bruke Jekyll, men alt er jo mulig selv på en lommedatamaskin. Men det var jo ofte litt mye arbeid for en liten kortpost (i alle fall om jeg skulle legge ved et bilde).</p>\n\n<p>Antar det hadde vært litt enklere i dag med Snarveier.</p>\n\n<table>\n<thead>\n<tr>\n<th>År</th>\n<th align=\"right\">Antall</th>\n</tr>\n</thead>\n\n<tbody>\n<tr>\n<td>2008</td>\n<td align=\"right\">1</td>\n</tr>\n\n<tr>\n<td>2009</td>\n<td align=\"right\">9</td>\n</tr>\n\n<tr>\n<td>2010</td>\n<td align=\"right\">3</td>\n</tr>\n\n<tr>\n<td>2011</td>\n<td align=\"right\">7</td>\n</tr>\n\n<tr>\n<td>2012</td>\n<td align=\"right\">64</td>\n</tr>\n\n<tr>\n<td>2013</td>\n<td align=\"right\">43</td>\n</tr>\n\n<tr>\n<td>2014</td>\n<td align=\"right\">60</td>\n</tr>\n\n<tr>\n<td>2015</td>\n<td align=\"right\">69</td>\n</tr>\n\n<tr>\n<td>2016</td>\n<td align=\"right\">52</td>\n</tr>\n\n<tr>\n<td>2017</td>\n<td align=\"right\">25</td>\n</tr>\n\n<tr>\n<td>2018</td>\n<td align=\"right\">202</td>\n</tr>\n\n<tr>\n<td>2019</td>\n<td align=\"right\">375</td>\n</tr>\n\n<tr>\n<td>2020</td>\n<td align=\"right\">387</td>\n</tr>\n\n<tr>\n<td>2021</td>\n<td align=\"right\">387</td>\n</tr>\n\n<tr>\n<td>2022</td>\n<td align=\"right\">463</td>\n</tr>\n\n<tr>\n<td>2023</td>\n<td align=\"right\">60</td>\n</tr>\n</tbody>\n</table>\n\n<p>Det er jo klart at postingen tok seg opp i i 2018 (og hjelper vel at jeg i Streaks har et daglig mål om minst en post (noe som medfører at «they all can&rsquo;t be winners»)), men jeg tror likevel en av de viktigste tingen er jo rett og slett at på iPhone så er appen genial enkel for kortpostene, og når jeg trenger å skrive litt lengre så er <a href=\"https://redsweater.com/marsedit/\">MarsEdit</a> rett og slett sjennialt Egon.</p>\n\n<p>Og at tittelfeltet på en post ikke vises før man passerer 280 tegn. For før micro.blog så har det blanke tittelfeltet ofte vært en barriere for å skrive noe i det hele tatt. Men nå gir jeg ofte fanden i det, eller prøver å skrive om for å komme meg under 280 om jeg så vidt var over.</p>\n\n<p>Skader ikke at det er en koselig kommentarfeltnettverk i samme slengen også.</p>\n",
+				"content_text": "I går var det 5-års jubileum for å betale for [micro.blog](https://micro.blog/). Før det brukte jeg både Wordpress og Jekyll. Førstnevnte både på egenhånd og betalt. Det er jo klart litt større terskel å bruke Jekyll, men alt er jo mulig selv på en lommedatamaskin. Men det var jo ofte litt mye arbeid for en liten kortpost (i alle fall om jeg skulle legge ved et bilde). \n\nAntar det hadde vært litt enklere i dag med Snarveier.\n\n| År   | Antall |\n| ---- | -----: |\n| 2008 | 1      |\n| 2009 | 9      |\n| 2010 | 3      |\n| 2011 | 7      |\n| 2012 | 64     |\n| 2013 | 43     |\n| 2014 | 60     |\n| 2015 | 69     |\n| 2016 | 52     |\n| 2017 | 25     |\n| 2018 | 202    |\n| 2019 | 375    |\n| 2020 | 387    |\n| 2021 | 387    |\n| 2022 | 463    |\n| 2023 | 60     |\n\n\nDet er jo klart at postingen tok seg opp i i 2018 (og hjelper vel at jeg i Streaks har et daglig mål om minst en post (noe som medfører at «they all can't be winners»)), men jeg tror likevel en av de viktigste tingen er jo rett og slett at på iPhone så er appen genial enkel for kortpostene, og når jeg trenger å skrive litt lengre så er [MarsEdit](https://redsweater.com/marsedit/) rett og slett sjennialt Egon.\n\nOg at tittelfeltet på en post ikke vises før man passerer 280 tegn. For før micro.blog så har det blanke tittelfeltet ofte vært en barriere for å skrive noe i det hele tatt. Men nå gir jeg ofte fanden i det, eller prøver å skrive om for å komme meg under 280 om jeg så vidt var over.\n\nSkader ikke at det er en koselig kommentarfeltnettverk i samme slengen også. \n",
+				"date_published": "2023-02-21T21:32:05+01:00",
+				"url": "https://teisam.net/2023/02/21/i-gr-var.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/02/20/213446.html",
+				
+				"content_html": "<p><img src=\"uploads/2023/f8755f8ab0.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2023/f8755f8ab0.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-20T21:34:46+01:00",
+				"url": "https://teisam.net/2023/02/20/213446.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2023/02/19/135009.html",
 				
-				"content_html": "<p><img src=\"uploads/2023/17ce6df306.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2023/17ce6df306.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><img src=\"https://teisam.net/uploads/2023/17ce6df306.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://teisam.net/uploads/2023/17ce6df306.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-19T13:50:09+01:00",
 				"url": "https://teisam.net/2023/02/19/135009.html"
 			},
 			{
 				"id": "http://teisam.micro.blog/2023/02/18/finnes-det-ikke.html",
 				
-				"content_html": "<p>Finnes det ikke nok land i Afrika til at man kunne slippe å bruke et navn fra kolonitiden, et fiktivt navn fra Marvel og et land som nesten ligner på et reelt navn.</p>\n\n<p><img src=\"uploads/2023/d5147ab651.png\" width=\"600\" height=\"564\" alt=\"\"></p>\n",
-				"content_text": "Finnes det ikke nok land i Afrika til at man kunne slippe å bruke et navn fra kolonitiden, et fiktivt navn fra Marvel og et land som nesten ligner på et reelt navn. \n\n<img src=\"uploads/2023/d5147ab651.png\" width=\"600\" height=\"564\" alt=\"\">\n",
+				"content_html": "<p>Finnes det ikke nok land i Afrika til at man kunne slippe å bruke et navn fra kolonitiden, et fiktivt navn fra Marvel og et land som nesten ligner på et reelt navn.</p>\n\n<p><img src=\"https://teisam.net/uploads/2023/d5147ab651.png\" width=\"600\" height=\"564\" alt=\"\"></p>\n",
+				"content_text": "Finnes det ikke nok land i Afrika til at man kunne slippe å bruke et navn fra kolonitiden, et fiktivt navn fra Marvel og et land som nesten ligner på et reelt navn. \n\n<img src=\"https://teisam.net/uploads/2023/d5147ab651.png\" width=\"600\" height=\"564\" alt=\"\">\n",
 				"date_published": "2023-02-18T18:56:29+01:00",
 				"url": "https://teisam.net/2023/02/18/finnes-det-ikke.html"
 			},
@@ -41,8 +89,8 @@
 			{
 				"id": "http://teisam.micro.blog/2023/02/15/220302.html",
 				
-				"content_html": "<p><img src=\"uploads/2023/3c95c14b93.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2023/3c95c14b93.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><img src=\"https://teisam.net/uploads/2023/3c95c14b93.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://teisam.net/uploads/2023/3c95c14b93.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-15T22:03:02+01:00",
 				"url": "https://teisam.net/2023/02/15/220302.html"
 			},
@@ -289,8 +337,8 @@
 			{
 				"id": "http://teisam.micro.blog/2023/01/20/treason.html",
 				"title": "Treason 📺",
-				"content_html": "<p>For noen dager siden leste jeg litt på en <a href=\"https://www.reddit.com/r/television/comments/10dky62/i_turned_it_off_after_5_minutes_isnt_a_review/?sort=new\">reddittråd</a> at å si at man slo av en serie eller film etter fem minutter av første episode ikke er en anmeldelse.</p>\n\n<p>I utgangspunktet enig i det. Selv om jeg har sett såpass mye tv at jeg ofte skjønner på hvilket nivå en serie vil legge seg på etter kort tid.</p>\n\n<p>Av en eller annen grunn kom jeg til å tenke på den når jeg begynte å se på miniserien <a href=\"https://www.imdb.com/title/tt16450274/?ref_=fn_al_tt_1\">Treason</a> i går på Netflix. Jeg skjønte hvor dette bar. Om ikke etter fem minutter, så etter første episode.</p>\n\n<p>Dette var</p>\n\n<p><img src=\"uploads/2023/6a611798a5.gif\" alt=\"sheeeeeit\" title=\"sheeeeeit.gif\" border=\"0\" width=\"300\" height=\"200\"/></p>\n\n<p>Noe som var litt skuffende. Med tanke på at det var noen kompetente skuespillere med. Og den handlet om spionting.</p>\n\n<p>For dette var hjelpeløst dårlig. Så ekstremt lite troverdig. Jeg forventer ikke at alle spionserier skal ha troverdighet som <a href=\"https://www.imdb.com/title/tt4063800/?ref_=fn_al_tt_1\">Le Bureau des Légendes</a>. Men det hadde vært kjekt med et hint av det. En homeopatisk dose av realisme. Men det finnes ikke.</p>\n\n<p>Likevel «så» jeg alt. Mest fordi jeg ikke ville bruke så mye energi på å følge med eller bruke opp en av de gode seriene for å få tiden til å gå.</p>\n",
-				"content_text": "For noen dager siden leste jeg litt på en [reddittråd](https://www.reddit.com/r/television/comments/10dky62/i_turned_it_off_after_5_minutes_isnt_a_review/?sort=new) at å si at man slo av en serie eller film etter fem minutter av første episode ikke er en anmeldelse.\n\nI utgangspunktet enig i det. Selv om jeg har sett såpass mye tv at jeg ofte skjønner på hvilket nivå en serie vil legge seg på etter kort tid. \n\nAv en eller annen grunn kom jeg til å tenke på den når jeg begynte å se på miniserien [Treason](https://www.imdb.com/title/tt16450274/?ref_=fn_al_tt_1) i går på Netflix. Jeg skjønte hvor dette bar. Om ikke etter fem minutter, så etter første episode.\n\nDette var\n\n<img src=\"uploads/2023/6a611798a5.gif\" alt=\"sheeeeeit\" title=\"sheeeeeit.gif\" border=\"0\" width=\"300\" height=\"200\"/>\n\nNoe som var litt skuffende. Med tanke på at det var noen kompetente skuespillere med. Og den handlet om spionting.\n\nFor dette var hjelpeløst dårlig. Så ekstremt lite troverdig. Jeg forventer ikke at alle spionserier skal ha troverdighet som [Le Bureau des Légendes](https://www.imdb.com/title/tt4063800/?ref_=fn_al_tt_1). Men det hadde vært kjekt med et hint av det. En homeopatisk dose av realisme. Men det finnes ikke. \n\nLikevel «så» jeg alt. Mest fordi jeg ikke ville bruke så mye energi på å følge med eller bruke opp en av de gode seriene for å få tiden til å gå.\n",
+				"content_html": "<p>For noen dager siden leste jeg litt på en <a href=\"https://www.reddit.com/r/television/comments/10dky62/i_turned_it_off_after_5_minutes_isnt_a_review/?sort=new\">reddittråd</a> at å si at man slo av en serie eller film etter fem minutter av første episode ikke er en anmeldelse.</p>\n\n<p>I utgangspunktet enig i det. Selv om jeg har sett såpass mye tv at jeg ofte skjønner på hvilket nivå en serie vil legge seg på etter kort tid.</p>\n\n<p>Av en eller annen grunn kom jeg til å tenke på den når jeg begynte å se på miniserien <a href=\"https://www.imdb.com/title/tt16450274/?ref_=fn_al_tt_1\">Treason</a> i går på Netflix. Jeg skjønte hvor dette bar. Om ikke etter fem minutter, så etter første episode.</p>\n\n<p>Dette var</p>\n\n<p><img src=\"https://teisam.net/uploads/2023/6a611798a5.gif\" alt=\"sheeeeeit\" title=\"sheeeeeit.gif\" border=\"0\" width=\"300\" height=\"200\"/></p>\n\n<p>Noe som var litt skuffende. Med tanke på at det var noen kompetente skuespillere med. Og den handlet om spionting.</p>\n\n<p>For dette var hjelpeløst dårlig. Så ekstremt lite troverdig. Jeg forventer ikke at alle spionserier skal ha troverdighet som <a href=\"https://www.imdb.com/title/tt4063800/?ref_=fn_al_tt_1\">Le Bureau des Légendes</a>. Men det hadde vært kjekt med et hint av det. En homeopatisk dose av realisme. Men det finnes ikke.</p>\n\n<p>Likevel «så» jeg alt. Mest fordi jeg ikke ville bruke så mye energi på å følge med eller bruke opp en av de gode seriene for å få tiden til å gå.</p>\n",
+				"content_text": "For noen dager siden leste jeg litt på en [reddittråd](https://www.reddit.com/r/television/comments/10dky62/i_turned_it_off_after_5_minutes_isnt_a_review/?sort=new) at å si at man slo av en serie eller film etter fem minutter av første episode ikke er en anmeldelse.\n\nI utgangspunktet enig i det. Selv om jeg har sett såpass mye tv at jeg ofte skjønner på hvilket nivå en serie vil legge seg på etter kort tid. \n\nAv en eller annen grunn kom jeg til å tenke på den når jeg begynte å se på miniserien [Treason](https://www.imdb.com/title/tt16450274/?ref_=fn_al_tt_1) i går på Netflix. Jeg skjønte hvor dette bar. Om ikke etter fem minutter, så etter første episode.\n\nDette var\n\n<img src=\"https://teisam.net/uploads/2023/6a611798a5.gif\" alt=\"sheeeeeit\" title=\"sheeeeeit.gif\" border=\"0\" width=\"300\" height=\"200\"/>\n\nNoe som var litt skuffende. Med tanke på at det var noen kompetente skuespillere med. Og den handlet om spionting.\n\nFor dette var hjelpeløst dårlig. Så ekstremt lite troverdig. Jeg forventer ikke at alle spionserier skal ha troverdighet som [Le Bureau des Légendes](https://www.imdb.com/title/tt4063800/?ref_=fn_al_tt_1). Men det hadde vært kjekt med et hint av det. En homeopatisk dose av realisme. Men det finnes ikke. \n\nLikevel «så» jeg alt. Mest fordi jeg ikke ville bruke så mye energi på å følge med eller bruke opp en av de gode seriene for å få tiden til å gå.\n",
 				"date_published": "2023-01-20T17:40:16+01:00",
 				"url": "https://teisam.net/2023/01/20/treason.html"
 			},
@@ -505,8 +553,8 @@
 			{
 				"id": "http://teisam.micro.blog/2022/12/28/egentlig-aldri-brukt.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/05f71ffa5b.jpg\" width=\"600\" height=\"93\" alt=\"\"></p>\n\n<p>Egentlig aldri brukt det, alltid vært fan av 1Password. Men gang brukte jeg Xmarks til syncing av bokmerker, og de ble kjøpt opp av Lastpass. Så jeg testet det ut litt. Så måtte logge inn i dag etter å ha lest følgende <a href=\"https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/\">bloggpost</a>. Og ja, manglene som står omtalt der gjaldt for meg. Og de to lagrede passordene jeg hadde i hvelvet. Og passordene gjaldt for wifi-innlogging på min forrige jobb.</p>\n",
-				"content_text": "<img src=\"uploads/2022/05f71ffa5b.jpg\" width=\"600\" height=\"93\" alt=\"\">\n\nEgentlig aldri brukt det, alltid vært fan av 1Password. Men gang brukte jeg Xmarks til syncing av bokmerker, og de ble kjøpt opp av Lastpass. Så jeg testet det ut litt. Så måtte logge inn i dag etter å ha lest følgende [bloggpost](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/). Og ja, manglene som står omtalt der gjaldt for meg. Og de to lagrede passordene jeg hadde i hvelvet. Og passordene gjaldt for wifi-innlogging på min forrige jobb. \n",
+				"content_html": "<p><img src=\"https://teisam.net/uploads/2022/05f71ffa5b.jpg\" width=\"600\" height=\"93\" alt=\"\"></p>\n\n<p>Egentlig aldri brukt det, alltid vært fan av 1Password. Men gang brukte jeg Xmarks til syncing av bokmerker, og de ble kjøpt opp av Lastpass. Så jeg testet det ut litt. Så måtte logge inn i dag etter å ha lest følgende <a href=\"https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/\">bloggpost</a>. Og ja, manglene som står omtalt der gjaldt for meg. Og de to lagrede passordene jeg hadde i hvelvet. Og passordene gjaldt for wifi-innlogging på min forrige jobb.</p>\n",
+				"content_text": "<img src=\"https://teisam.net/uploads/2022/05f71ffa5b.jpg\" width=\"600\" height=\"93\" alt=\"\">\n\nEgentlig aldri brukt det, alltid vært fan av 1Password. Men gang brukte jeg Xmarks til syncing av bokmerker, og de ble kjøpt opp av Lastpass. Så jeg testet det ut litt. Så måtte logge inn i dag etter å ha lest følgende [bloggpost](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/). Og ja, manglene som står omtalt der gjaldt for meg. Og de to lagrede passordene jeg hadde i hvelvet. Og passordene gjaldt for wifi-innlogging på min forrige jobb. \n",
 				"date_published": "2022-12-28T22:43:56+01:00",
 				"url": "https://teisam.net/2022/12/28/egentlig-aldri-brukt.html"
 			},
