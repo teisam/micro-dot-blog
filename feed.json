@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2023/03/19/aner-ikke-hvor.html",
+				
+				"content_html": "<p>Aner ikke hvor ofte jeg så hver episode av første sesong av <a href=\"https://www.imdb.com/title/tt10986410/?ref_=fn_al_tt_1\">Ted Lasso</a>, men det var mange. Men for sesong 2 så jeg de fleste episodene kun en gang. Men med tanke på at tredje og siste sesong hadde premiere denne uka så var det på tide med en gjentitt.</p>\n\n<p>Og ja, sesong 1 var magisk. Men sesong er ikke ille den heller.</p>\n",
+				"content_text": "Aner ikke hvor ofte jeg så hver episode av første sesong av [Ted Lasso](https://www.imdb.com/title/tt10986410/?ref_=fn_al_tt_1), men det var mange. Men for sesong 2 så jeg de fleste episodene kun en gang. Men med tanke på at tredje og siste sesong hadde premiere denne uka så var det på tide med en gjentitt.\n\nOg ja, sesong 1 var magisk. Men sesong er ikke ille den heller.\n",
+				"date_published": "2023-03-19T17:20:35+01:00",
+				"url": "https://teisam.net/2023/03/19/aner-ikke-hvor.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/03/18/andre-lrdag-p.html",
+				
+				"content_html": "<p>Andre lørdag på rad jeg har måtte dunke noe hardt i veggen for å indikere til oppussende nabo i oppgangen ved siden av at han har gått over streken med støy.</p>\n\n<p>En smule irritert. Ikke vært så flink med nabovarsel.</p>\n",
+				"content_text": "Andre lørdag på rad jeg har måtte dunke noe hardt i veggen for å indikere til oppussende nabo i oppgangen ved siden av at han har gått over streken med støy. \n\nEn smule irritert. Ikke vært så flink med nabovarsel. \n",
+				"date_published": "2023-03-18T20:45:47+01:00",
+				"url": "https://teisam.net/2023/03/18/andre-lrdag-p.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/03/17/bestemte-meg-plutselig.html",
+				
+				"content_html": "<p>Bestemte meg plutselig i går for å ta en fridag i dag. Sov bittelitt lengre, stakk på Storosenteret og handlet noen småting. Lunsjet på Grisen. Spilt litt FIFA på PS5. Blir vel litt RDR2 snart.</p>\n\n<p>Satte pris på det. Bør være flinkere til å gjøre det litt oftere.</p>\n",
+				"content_text": "Bestemte meg plutselig i går for å ta en fridag i dag. Sov bittelitt lengre, stakk på Storosenteret og handlet noen småting. Lunsjet på Grisen. Spilt litt FIFA på PS5. Blir vel litt RDR2 snart.\n\nSatte pris på det. Bør være flinkere til å gjøre det litt oftere.\n",
+				"date_published": "2023-03-17T15:57:30+01:00",
+				"url": "https://teisam.net/2023/03/17/bestemte-meg-plutselig.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/03/16/videresending-fra-min.html",
+				
+				"content_html": "<p>Videresending fra min <a href=\"https://www.hey.com/\">HEY</a> adresse som jeg kuttet ut etter å ha <a href=\"https://teisam.net/2021/01/14/i-sommer-s.html\">prøvd</a> tjenesten i et år (men konkluderte at det ikke var noe for meg) ser ut til å virke (har riktignok testet selv før).</p>\n\n<p>Dog litt merkelig at det var noen fra HEY som ville ha meg med på en spørreundersøkelse som bruker av HEY.</p>\n",
+				"content_text": "Videresending fra min [HEY](https://www.hey.com/) adresse som jeg kuttet ut etter å ha [prøvd](https://teisam.net/2021/01/14/i-sommer-s.html) tjenesten i et år (men konkluderte at det ikke var noe for meg) ser ut til å virke (har riktignok testet selv før).\n\nDog litt merkelig at det var noen fra HEY som ville ha meg med på en spørreundersøkelse som bruker av HEY.\n",
+				"date_published": "2023-03-16T08:33:46+01:00",
+				"url": "https://teisam.net/2023/03/16/videresending-fra-min.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/03/15/jeg-er-ingen.html",
+				
+				"content_html": "<p>Jeg er ingen programmerer, men etter å ha lest meg litt mer opp på hva man kan gjøre i ssh_config, eller mer spesifikt <code>~/.ssh/config</code>, og brukt litt tid i går og i dag for å strømlinjeforme konfigen min, og redusert den fra 1800ish linjer til 140ish linjer, så har jeg begynt å skjønne litt hvorfor programmerer synes det er godt å redusere antall linjer i koden sin.</p>\n\n<p>Riktignok så er vel 5-600 av de linjene kommentarer jeg har brukt til et <a href=\"https://github.com/bedezign/ssh-to-iterm2\">script</a> som gjør om <code>~/.ssh/config</code> til profiler i iTerm.</p>\n\n<p>Men etter å ha <a href=\"https://jacobsalmela.com/2019/09/21/dynamic-profile-and-badge-switching-without-shell-integrations-in-iterm2/\">lest</a> hvordan man kan bruke LocalCommand i <code>~/.ssh/config</code> og funnet et annet <a href=\"https://github.com/arnested/ssh2iterm2\">script</a> for å gjøre om <code>~/.ssh/config</code> til profiler i <a href=\"https://iterm2.com/\">iTerm</a>, samt den tidligere lesingen av <code>man ssh_config</code> så fant jeg ut at det var på tide å fikse mitt nåværende <code>~/.ssh/config</code> monster.</p>\n\n<p>At jeg også har lyst å bruke filen på en annen host pga tmux og iTerm sin tmuxintegrasjon hjalp nok også til.</p>\n\n<p>Det eneste som gjenstår nå er hvordan jeg kan bruke <code>Match</code> i <code>~/.ssh/config</code> til å slå av eller på opsjoner. Ettersom maskinen jeg vil bruke den på også er <code>ProxyJump</code> for den primære maskinen jeg bruker <code>~/.ssh/config</code> på.</p>\n\n<p>Dog, å vedlikeholde to forskjellige filer på 140ish linjer hver kontra 1800 er litt mer praktisk gjennomførbart.</p>\n",
+				"content_text": "Jeg er ingen programmerer, men etter å ha lest meg litt mer opp på hva man kan gjøre i ssh_config, eller mer spesifikt ```~/.ssh/config```, og brukt litt tid i går og i dag for å strømlinjeforme konfigen min, og redusert den fra 1800ish linjer til 140ish linjer, så har jeg begynt å skjønne litt hvorfor programmerer synes det er godt å redusere antall linjer i koden sin.\n\nRiktignok så er vel 5-600 av de linjene kommentarer jeg har brukt til et [script](https://github.com/bedezign/ssh-to-iterm2) som gjør om ```~/.ssh/config``` til profiler i iTerm. \n\nMen etter å ha [lest](https://jacobsalmela.com/2019/09/21/dynamic-profile-and-badge-switching-without-shell-integrations-in-iterm2/) hvordan man kan bruke LocalCommand i ```~/.ssh/config``` og funnet et annet [script](https://github.com/arnested/ssh2iterm2) for å gjøre om ```~/.ssh/config``` til profiler i [iTerm](https://iterm2.com/), samt den tidligere lesingen av ```man ssh_config``` så fant jeg ut at det var på tide å fikse mitt nåværende ```~/.ssh/config``` monster.\n\nAt jeg også har lyst å bruke filen på en annen host pga tmux og iTerm sin tmuxintegrasjon hjalp nok også til.\n\nDet eneste som gjenstår nå er hvordan jeg kan bruke ```Match``` i ```~/.ssh/config``` til å slå av eller på opsjoner. Ettersom maskinen jeg vil bruke den på også er ```ProxyJump``` for den primære maskinen jeg bruker ```~/.ssh/config``` på.\n\nDog, å vedlikeholde to forskjellige filer på 140ish linjer hver kontra 1800 er litt mer praktisk gjennomførbart.\n",
+				"date_published": "2023-03-15T20:04:34+01:00",
+				"url": "https://teisam.net/2023/03/15/jeg-er-ingen.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/03/14/det-er-litt.html",
+				
+				"content_html": "<p>Det er litt søtt, men samtidig også litt trist når jeg ser på noen som lager innhold til YouTube har blindtester og det er bare dem selv som gjør det med bind foran øynene mens de prøver å mikse opp smaksprøvene foran seg.</p>\n",
+				"content_text": "Det er litt søtt, men samtidig også litt trist når jeg ser på noen som lager innhold til YouTube har blindtester og det er bare dem selv som gjør det med bind foran øynene mens de prøver å mikse opp smaksprøvene foran seg.\n",
+				"date_published": "2023-03-14T20:02:53+01:00",
+				"url": "https://teisam.net/2023/03/14/det-er-litt.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2023/03/13/det-skal-innrmmes.html",
 				
-				"content_html": "<p>Det skal innrømmes at både logg og anbefalinger på YouTube i disse dager har en overvekt av ting relatert til Red Dead Redemption 2.</p>\n\n<p>Men så kan den jo noen ganger<a href=\"https://youtu.be/91HZT18jbBQ\">overraske</a>. Greit forklart, og større troverdighet fordi ting ikke er kategoriske. Selv om tittelen kanskje er litt sånn.</p>\n\n<iframe width=\"600\" height=\"338\" src=\"https://www.youtube-nocookie.com/embed/91HZT18jbBQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
-				"content_text": "Det skal innrømmes at både logg og anbefalinger på YouTube i disse dager har en overvekt av ting relatert til Red Dead Redemption 2.\n \nMen så kan den jo noen ganger[overraske](https://youtu.be/91HZT18jbBQ). Greit forklart, og større troverdighet fordi ting ikke er kategoriske. Selv om tittelen kanskje er litt sånn.\n\n<iframe width=\"600\" height=\"338\" src=\"https://www.youtube-nocookie.com/embed/91HZT18jbBQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
+				"content_html": "<p>Det skal innrømmes at både logg og anbefalinger på YouTube i disse dager har en overvekt av ting relatert til Red Dead Redemption 2.</p>\n\n<p>Men så kan den jo noen ganger <a href=\"https://youtu.be/91HZT18jbBQ\">overraske</a>. Greit forklart, og større troverdighet fordi ting ikke er kategoriske. Selv om tittelen kanskje er litt sånn.</p>\n\n<iframe width=\"600\" height=\"338\" src=\"https://www.youtube-nocookie.com/embed/91HZT18jbBQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
+				"content_text": "Det skal innrømmes at både logg og anbefalinger på YouTube i disse dager har en overvekt av ting relatert til Red Dead Redemption 2.\n \nMen så kan den jo noen ganger [overraske](https://youtu.be/91HZT18jbBQ). Greit forklart, og større troverdighet fordi ting ikke er kategoriske. Selv om tittelen kanskje er litt sånn.\n\n<iframe width=\"600\" height=\"338\" src=\"https://www.youtube-nocookie.com/embed/91HZT18jbBQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
 				"date_published": "2023-03-13T21:12:27+01:00",
 				"url": "https://teisam.net/2023/03/13/det-skal-innrmmes.html"
 			},
@@ -81,8 +129,8 @@
 			{
 				"id": "http://teisam.micro.blog/2023/03/07/200018.html",
 				
-				"content_html": "<p><img src=\"uploads/2023/7aecc14e61.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2023/7aecc14e61.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/2987/2023/7aecc14e61.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/2987/2023/7aecc14e61.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-07T20:00:18+01:00",
 				"url": "https://teisam.net/2023/03/07/200018.html"
 			},
