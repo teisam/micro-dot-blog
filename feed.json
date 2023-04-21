@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2023/04/21/fra-aftenposten-i.html",
+				
+				"content_html": "<p>Fra Aftenposten i en sak om <a href=\"https://www.aftenposten.no/amagasinet/i/0Qg1m2/en-mors-valg?refere\">adopsjon</a> i Norge.</p>\n\n<blockquote>\n<p>Hvert år fødes i snitt fem babyer på norske sykehus som gis videre til adopsjon. Et valg som gir andre mulighet til å bli foreldre.</p>\n</blockquote>\n\n<p>Hadde jo regnet med at tallet var lavt i Norge, men var litt overraskende lavt.</p>\n",
+				"content_text": "Fra Aftenposten i en sak om [adopsjon](https://www.aftenposten.no/amagasinet/i/0Qg1m2/en-mors-valg?refere) i Norge.\n\n> Hvert år fødes i snitt fem babyer på norske sykehus som gis videre til adopsjon. Et valg som gir andre mulighet til å bli foreldre.\n\nHadde jo regnet med at tallet var lavt i Norge, men var litt overraskende lavt.\n\n",
+				"date_published": "2023-04-21T08:09:20+02:00",
+				"url": "https://teisam.net/2023/04/21/fra-aftenposten-i.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/04/20/synes-herr-basic.html",
+				
+				"content_html": "<p>Synes Herr Basic Apple Guy lager snertne bakgrunner, og hans siste <a href=\"https://basicappleguy.com/basicappleblog/macos-van-gogh\">macOS meets Van Gogh</a> er ikke noe unntak.</p>\n",
+				"content_text": "Synes Herr Basic Apple Guy lager snertne bakgrunner, og hans siste [macOS meets Van Gogh](https://basicappleguy.com/basicappleblog/macos-van-gogh) er ikke noe unntak. \n",
+				"date_published": "2023-04-20T21:00:08+02:00",
+				"url": "https://teisam.net/2023/04/20/synes-herr-basic.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/04/19/193334.html",
+				
+				"content_html": "<p><img src=\"uploads/2023/b04448b7bb.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2023/b04448b7bb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-19T19:33:34+02:00",
+				"url": "https://teisam.net/2023/04/19/193334.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/04/18/m-si-at.html",
+				
+				"content_html": "<p>Må si at jeg synes <a href=\"https://www.nytimes.com/games/digits\">Digits</a> er en morsom hjernetrim (selv om den siste i dag var litt frust).</p>\n",
+				"content_text": "Må si at jeg synes [Digits](https://www.nytimes.com/games/digits) er en morsom hjernetrim (selv om den siste i dag var litt frust). \n",
+				"date_published": "2023-04-18T22:09:29+02:00",
+				"url": "https://teisam.net/2023/04/18/m-si-at.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/04/17/spanande-ser-ut.html",
+				
+				"content_html": "<p>Spanande, ser ut som Apple Google Streetview (eller hva man skal kalle det) har kommet til Apple Maps i Norge.</p>\n",
+				"content_text": "Spanande, ser ut som Apple Google Streetview (eller hva man skal kalle det) har kommet til Apple Maps i Norge. \n",
+				"date_published": "2023-04-17T17:35:11+02:00",
+				"url": "https://teisam.net/2023/04/17/spanande-ser-ut.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/04/16/s-min-frste.html",
+				
+				"content_html": "<p>Så min første hele MLB-kamp for 2023 i dag. Og den var over på under to timer. Litt fantastisk.</p>\n",
+				"content_text": "Så min første hele MLB-kamp for 2023 i dag. Og den var over på under to timer. Litt fantastisk.\n",
+				"date_published": "2023-04-16T21:34:32+02:00",
+				"url": "https://teisam.net/2023/04/16/s-min-frste.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/04/16/et-hint-av.html",
+				
+				"content_html": "<p>Et hint av vår.</p>\n\n<p><img src=\"uploads/2023/3d610a555c.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Et hint av vår. \n\n<img src=\"uploads/2023/3d610a555c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-16T12:52:47+02:00",
+				"url": "https://teisam.net/2023/04/16/et-hint-av.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2023/04/15/hurra-det-kan.html",
 				
 				"content_html": "<p>Hurra, det kan virke som om NRK har til fornuften og begynt å koble seg til TV appen på Apple TV.</p>\n\n<p>Fortjener en ektefølt «Finally».</p>\n",
