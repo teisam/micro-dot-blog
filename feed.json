@@ -7,20 +7,76 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2023/05/29/hrer-p-siste.html",
+				
+				"content_html": "<p>Hører på siste <a href=\"https://daringfireball.net/thetalkshow/2023/05/23/ep-375\">The Talk Show</a> med Gruber og Snell. Og Gruber fortsetter med å skrive om historien til Apple Watch.</p>\n\n<p>Nå antydet han at Apple brukte noe annet enn «all day battery life» for å beskrive hvor lenge en Apple Watch holdt til daglig bruk.</p>\n\n<p>Var det for noen den ikke holdt hele dagen. Sikkert. F.eks bruke den til to eller flere treningsøkter om dagen brukte nok litt mer batteri.</p>\n\n<p>La oss se hva Apple Pundit John Gruber skrev i <a href=\"https://daringfireball.net/2015/04/the_apple_watch\">2015</a></p>\n\n<blockquote>\n<p>After more than a week of daily use, Apple Watch has more than alleviated any concerns I had about getting through a day on a single charge. I noted the remaining charge when I went to bed each night. It was usually still in the 30s or 40s. Once it was still over 50 percent charged. Once, it was down to 27. And one day — last Thursday — it was all the way down to 5 percent. But that day was an exception — I used the watch for an extraordinary amount of testing, nothing at all resembling typical usage. I’m surprised the watch had any remaining charge at all that day. I never once charged the watch other than while I slept.</p>\n</blockquote>\n\n<p>Og</p>\n\n<blockquote>\n<p>I find every word of that description (including the 18 hours of battery life) to be accurate and free of hyperbole.</p>\n</blockquote>\n\n<p>Og min erfaring med epleklokke siden høsten 2015 antyder det samme.</p>\n",
+				"content_text": "Hører på siste [The Talk Show](https://daringfireball.net/thetalkshow/2023/05/23/ep-375) med Gruber og Snell. Og Gruber fortsetter med å skrive om historien til Apple Watch.\n\nNå antydet han at Apple brukte noe annet enn «all day battery life» for å beskrive hvor lenge en Apple Watch holdt til daglig bruk.\n\nVar det for noen den ikke holdt hele dagen. Sikkert. F.eks bruke den til to eller flere treningsøkter om dagen brukte nok litt mer batteri.\n\nLa oss se hva Apple Pundit John Gruber skrev i [2015](https://daringfireball.net/2015/04/the_apple_watch)\n\n> After more than a week of daily use, Apple Watch has more than alleviated any concerns I had about getting through a day on a single charge. I noted the remaining charge when I went to bed each night. It was usually still in the 30s or 40s. Once it was still over 50 percent charged. Once, it was down to 27. And one day — last Thursday — it was all the way down to 5 percent. But that day was an exception — I used the watch for an extraordinary amount of testing, nothing at all resembling typical usage. I’m surprised the watch had any remaining charge at all that day. I never once charged the watch other than while I slept.\n\nOg\n\n> I find every word of that description (including the 18 hours of battery life) to be accurate and free of hyperbole.\n\nOg min erfaring med epleklokke siden høsten 2015 antyder det samme. \n",
+				"date_published": "2023-05-29T12:18:50+02:00",
+				"url": "https://teisam.net/2023/05/29/hrer-p-siste.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/05/28/forsvidt-ikke-den.html",
+				
+				"content_html": "<p>Forsåvidt ikke den mest spektakulære utsikten. Men likevel, veldig beroligende.</p>\n\n<p><img src=\"uploads/2023/d608041571.jpg\" width=\"450\" height=\"600\" alt=\"Utsikt mot det jeg tror er ei eik og blå himmel\"></p>\n",
+				"content_text": "Forsåvidt ikke den mest spektakulære utsikten. Men likevel, veldig beroligende. \n\n<img src=\"uploads/2023/d608041571.jpg\" width=\"450\" height=\"600\" alt=\"Utsikt mot det jeg tror er ei eik og blå himmel\">\n",
+				"date_published": "2023-05-28T18:46:33+02:00",
+				"url": "https://teisam.net/2023/05/28/forsvidt-ikke-den.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/05/27/kan-vre-at.html",
+				
+				"content_html": "<p>Kan være at Homepod Minien reagerte på «There she is» i siste episode av Ted Lasso. Men jeg velger å tro at det var «Hey wanker» i sekundet etterpå.</p>\n",
+				"content_text": "Kan være at Homepod Minien reagerte på «There she is» i siste episode av Ted Lasso. Men jeg velger å tro at det var «Hey wanker» i sekundet etterpå. \n",
+				"date_published": "2023-05-27T19:31:41+02:00",
+				"url": "https://teisam.net/2023/05/27/kan-vre-at.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/05/27/pent-vr-er.html",
+				
+				"content_html": "<p>Pent vær er gladmelding. At det kan bli en temperatur som starter med 3 er det ikke.</p>\n\n<blockquote>\n<p>Gladmelding fra Meteorologisk institutt: Venter opp til 30 grader i Oslo</p>\n</blockquote>\n",
+				"content_text": "Pent vær er gladmelding. At det kan bli en temperatur som starter med 3 er det ikke. \n\n> Gladmelding fra Meteorologisk institutt: Venter opp til 30 grader i Oslo\n",
+				"date_published": "2023-05-27T18:47:00+02:00",
+				"url": "https://teisam.net/2023/05/27/pent-vr-er.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/05/26/ack-kaleidoscope-har.html",
+				
+				"content_html": "<p>Ack, <a href=\"https://kaleidoscope.app/\">Kaleidoscope</a> har skiftet til abonnement. Og ettersom det nok krever tilgang til internett, så kan jeg ikke lengre oppgradere Kaleidoscope ettersom den maskinen jeg bruker den mest på ikke har generell tilgang til internett.</p>\n\n<p>Jaja, får håpe den versjonen jeg har betalt for virker i noen år til.</p>\n",
+				"content_text": "Ack, [Kaleidoscope](https://kaleidoscope.app/) har skiftet til abonnement. Og ettersom det nok krever tilgang til internett, så kan jeg ikke lengre oppgradere Kaleidoscope ettersom den maskinen jeg bruker den mest på ikke har generell tilgang til internett.\n\nJaja, får håpe den versjonen jeg har betalt for virker i noen år til.\n",
+				"date_published": "2023-05-26T22:11:03+02:00",
+				"url": "https://teisam.net/2023/05/26/ack-kaleidoscope-har.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/05/26/ny-bydel-ble.html",
+				
+				"content_html": "<p>Ny bydel ble nettopp lansert.</p>\n\n<p><img src=\"uploads/2023/fa1d56d095.jpg\" width=\"600\" height=\"600\" alt=\"Bilde av en ruter buss der det står Flerfarge front i stedet for destinasjon.\"></p>\n",
+				"content_text": "Ny bydel ble nettopp lansert. \n\n<img src=\"uploads/2023/fa1d56d095.jpg\" width=\"600\" height=\"600\" alt=\"Bilde av en ruter buss der det står Flerfarge front i stedet for destinasjon.\">\n",
+				"date_published": "2023-05-26T20:47:06+02:00",
+				"url": "https://teisam.net/2023/05/26/ny-bydel-ble.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/05/25/i-gr-fikk.html",
+				
+				"content_html": "<p>I går fikk man epost fra Sbanken - et konsept fra DNB som meddelte følgende</p>\n\n<blockquote>\n<p>Etter 27. august 2023 kan du ikke lenger bruke Sbanken-kortet ditt til å betale med Apple Pay. Du kan bruke tjenesten som normalt frem til det.</p>\n\n<p>Vi vet at mange av dere som har brukt Apple Pay har vært fornøyd med tjenesten, og vi forstår at dette er en dårlig nyhet.</p>\n</blockquote>\n\n<p>Mitt svar til Sbanken - et konsept fra DNB er som følger</p>\n\n<blockquote>\n<p>Tor Einar - et konsept fra mamma og pappa, vil ikke lengre bruke Sbanken som bank ettersom støtte for Apple Pay var den eneste grunnen til at han gjenopptok forholdet til Sbanken i sin tid.</p>\n</blockquote>\n\n<p>Sånn forresten, mistenkelig smidig og enkelt å opprette kundeforhold med <a href=\"https://www.bulder.no/\">Bulder</a>. Mye å like der.</p>\n",
+				"content_text": "I går fikk man epost fra Sbanken - et konsept fra DNB som meddelte følgende\n\n> Etter 27. august 2023 kan du ikke lenger bruke Sbanken-kortet ditt til å betale med Apple Pay. Du kan bruke tjenesten som normalt frem til det.\n\n> Vi vet at mange av dere som har brukt Apple Pay har vært fornøyd med tjenesten, og vi forstår at dette er en dårlig nyhet.\n\nMitt svar til Sbanken - et konsept fra DNB er som følger\n\n> Tor Einar - et konsept fra mamma og pappa, vil ikke lengre bruke Sbanken som bank ettersom støtte for Apple Pay var den eneste grunnen til at han gjenopptok forholdet til Sbanken i sin tid.\n\nSånn forresten, mistenkelig smidig og enkelt å opprette kundeforhold med [Bulder](https://www.bulder.no/). Mye å like der.\n",
+				"date_published": "2023-05-25T22:31:24+02:00",
+				"url": "https://teisam.net/2023/05/25/i-gr-fikk.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/05/24/092447.html",
+				
+				"content_html": "<p><img src=\"uploads/2023/b561ed7e4c.jpg\" width=\"450\" height=\"600\" alt=\"Klistremerke på en lystolpe om gutta fra Hamar\"></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2023/b561ed7e4c.jpg\" width=\"450\" height=\"600\" alt=\"Klistremerke på en lystolpe om gutta fra Hamar\">\n",
+				"date_published": "2023-05-24T09:24:47+02:00",
+				"url": "https://teisam.net/2023/05/24/092447.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2023/05/23/ack-skulle-ha.html",
 				
 				"content_html": "<p>Ack, skulle ha litt totalrengjøring av solbrillene mine (med styrke), la de i såpevann en periode (ettersom innfatningen besto av et materiale som var «sticky». Mente jeg var forsiktig med hvor varmt vannet var.</p>\n\n<p>Dessverre var brilleglassene av en annen oppfatning. Så nå må jeg ha nye solbriller.</p>\n",
 				"content_text": "Ack, skulle ha litt totalrengjøring av solbrillene mine (med styrke), la de i såpevann en periode (ettersom innfatningen besto av et materiale som var «sticky». Mente jeg var forsiktig med hvor varmt vannet var. \n\nDessverre var brilleglassene av en annen oppfatning. Så nå må jeg ha nye solbriller.\n",
 				"date_published": "2023-05-23T22:36:50+02:00",
 				"url": "https://teisam.net/2023/05/23/ack-skulle-ha.html"
-			},
-			{
-				"id": "http://teisam.micro.blog/2023/05/22/this-is-your.html",
-				
-				"content_html": "<blockquote>\n<p>This is your final reminder that free accounts will only have access to 2 Applets after May 23.</p>\n</blockquote>\n\n<p>Sier IFTTT. Greit nok.</p>\n\n<p>Men litt merkelig når det er første gang jeg hører om det, og man får en hel dag på å vurdere på om det er verdt spenna. Trenger bare en av dem, så nei. Ikke verdt det.</p>\n",
-				"content_text": "> This is your final reminder that free accounts will only have access to 2 Applets after May 23. \n\nSier IFTTT. Greit nok.\n\nMen litt merkelig når det er første gang jeg hører om det, og man får en hel dag på å vurdere på om det er verdt spenna. Trenger bare en av dem, så nei. Ikke verdt det.\n",
-				"date_published": "2023-05-22T22:31:43+02:00",
-				"url": "https://teisam.net/2023/05/22/this-is-your.html"
 			},
 			{
 				"id": "http://teisam.micro.blog/2023/05/22/djiiz-church-and.html",
@@ -69,22 +125,6 @@
 				"content_text": "Jeg gikk jo [Full Zelda](https://teisam.net/2023/05/12/samtaler-fra-mitt.html) sist helg, litt upraktisk med søttende og himmelspretten uken etterpå. \n\nMen hjelper ikke at PostNord har lastet den ombord og har sendt den til utleveringsstedet. Og tror at den vil være fremme på onsdag. 5 dager på 2 mil altså. \n\nVognen må bli trukket av et motvillig esel.\n",
 				"date_published": "2023-05-19T19:14:36+02:00",
 				"url": "https://teisam.net/2023/05/19/jeg-gikk-jo.html"
-			},
-			{
-				"id": "http://teisam.micro.blog/2023/05/18/hres-ut-som.html",
-				
-				"content_html": "<p>Høres ut som en anmeldelse som er skrevet av et ekte unikt luksuriøst menneske.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/2987/2023/f899322d0a.jpg\" width=\"600\" height=\"600\" alt=\"Bilde med følgende tekst: Dette er virkelig et unikt produkt med luksuriøst design.&10;Dette glasset med sitt unike design kan du nå servere din favoritt drink pà en meget luksuriøs måte!\"></p>\n",
-				"content_text": "Høres ut som en anmeldelse som er skrevet av et ekte unikt luksuriøst menneske. \n\n<img src=\"https://cdn.uploads.micro.blog/2987/2023/f899322d0a.jpg\" width=\"600\" height=\"600\" alt=\"Bilde med følgende tekst: Dette er virkelig et unikt produkt med luksuriøst design.&10;Dette glasset med sitt unike design kan du nå servere din favoritt drink pà en meget luksuriøs måte!\">\n",
-				"date_published": "2023-05-18T12:31:09+02:00",
-				"url": "https://teisam.net/2023/05/18/hres-ut-som.html"
-			},
-			{
-				"id": "http://teisam.micro.blog/2023/05/17/trodde-jeg-skulle.html",
-				
-				"content_html": "<p>Trodde jeg skulle si at dagen i dag er den dagen jeg har det mest ambivalente forholdet til, men så sjekket jeg ordboken og innser at det ordet ikke passer helt. Det er andre dager og høytider det passer bedre til.</p>\n",
-				"content_text": "Trodde jeg skulle si at dagen i dag er den dagen jeg har det mest ambivalente forholdet til, men så sjekket jeg ordboken og innser at det ordet ikke passer helt. Det er andre dager og høytider det passer bedre til.\n",
-				"date_published": "2023-05-17T14:21:40+02:00",
-				"url": "https://teisam.net/2023/05/17/trodde-jeg-skulle.html"
 			},
 			{
 				"id": "http://teisam.micro.blog/2023/05/16/ulempen-med-vre.html",
