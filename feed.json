@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://teisam.micro.blog/2023/09/24/uten-ha-fulgt.html",
+				
+				"content_html": "<p>Uten å ha fulgt med så mye på applesfæren, så ser det ut som at man har i mindre grad fingeravtrykksgate (kreisy, fingeravtrykk på noe du holder i henda 24/7) og fine-woven-gate.</p>\n\n<p>Kutte ut det meste av techpunditry har vært smart.</p>\n",
+				"content_text": "Uten å ha fulgt med så mye på applesfæren, så ser det ut som at man har i mindre grad fingeravtrykksgate (kreisy, fingeravtrykk på noe du holder i henda 24/7) og fine-woven-gate.\n\nKutte ut det meste av techpunditry har vært smart.\n",
+				"date_published": "2023-09-24T21:00:46+02:00",
+				"url": "https://teisam.net/2023/09/24/uten-ha-fulgt.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/09/23/grei-temperatur-om.html",
+				
+				"content_html": "<p>Grei temperatur om dagen, men om kvelden begynner heldigvis årstiden å gå mot pysjamasbukse-om-kvelden-temperatur.</p>\n",
+				"content_text": "Grei temperatur om dagen, men om kvelden begynner heldigvis årstiden å gå mot pysjamasbukse-om-kvelden-temperatur.\n",
+				"date_published": "2023-09-23T19:56:48+02:00",
+				"url": "https://teisam.net/2023/09/23/grei-temperatur-om.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/09/22/har-de-siste.html",
+				
+				"content_html": "<p>Har de siste gangene jeg har lagd risotto (for å akkompagnere et lite billig biffstykke) lagd den med minste mulige innsats. Frese litt ris i olje, helle på oppkokt vann, ha i litt fond. Så bare la den stå å putre den tiden det tar (kankje helle på litt mer varmt vann). Smør og parmesan til slutt.</p>\n\n<p>I stedet for røre konstant mens man har over kraft litt etter litt. Siste måten er selvsagt best, men minste mulige innsats er som oftest godt nok. I alle fall når det bare er jeg som skal spise.</p>\n",
+				"content_text": "Har de siste gangene jeg har lagd risotto (for å akkompagnere et lite billig biffstykke) lagd den med minste mulige innsats. Frese litt ris i olje, helle på oppkokt vann, ha i litt fond. Så bare la den stå å putre den tiden det tar (kankje helle på litt mer varmt vann). Smør og parmesan til slutt.\n\nI stedet for røre konstant mens man har over kraft litt etter litt. Siste måten er selvsagt best, men minste mulige innsats er som oftest godt nok. I alle fall når det bare er jeg som skal spise.\n",
+				"date_published": "2023-09-22T23:19:35+02:00",
+				"url": "https://teisam.net/2023/09/22/har-de-siste.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/09/21/er-litt-urovekkende.html",
+				
+				"content_html": "<p>Er litt urovekkende når gråe skyer og regn medfører at det virkelig ser ut som høst, men temperatur føles mer ut som sommer.</p>\n\n<p>Ikke fan av det været som har vært denne uken.</p>\n",
+				"content_text": "Er litt urovekkende når gråe skyer og regn medfører at det virkelig ser ut som høst, men temperatur føles mer ut som sommer.\n\nIkke fan av det været som har vært denne uken.\n",
+				"date_published": "2023-09-21T22:04:01+02:00",
+				"url": "https://teisam.net/2023/09/21/er-litt-urovekkende.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/09/20/i-forbindelse-med.html",
+				
+				"content_html": "<p>I forbindelse med jobb så holder jeg på med å bruke minnepinner for å få inn en initiell konfig på noen enheter. Oppdaget at jeg hadde bommet på noen verdier på den første i et par.</p>\n\n<p>Så da gjorde jeg noen endringer på variablene som var feil, genererte ny konfig, sammenlignet gammel konfig (på minnepinnen) og ny konfig på Macen. Så at konfigen var endret der den skulle, tok ut minnepinnen og startet enheten på nytt.</p>\n\n<p>Og ser at den bruker den feilaktige konfigen igjen. Og da innser jeg at NOEN®©™ glemte å kopiere over den nye konfigen fra Mac til minnepinne.</p>\n\n<p>Det var på tide å ta kvelden da.</p>\n",
+				"content_text": "I forbindelse med jobb så holder jeg på med å bruke minnepinner for å få inn en initiell konfig på noen enheter. Oppdaget at jeg hadde bommet på noen verdier på den første i et par.\n\nSå da gjorde jeg noen endringer på variablene som var feil, genererte ny konfig, sammenlignet gammel konfig (på minnepinnen) og ny konfig på Macen. Så at konfigen var endret der den skulle, tok ut minnepinnen og startet enheten på nytt.\n\nOg ser at den bruker den feilaktige konfigen igjen. Og da innser jeg at NOEN®©™ glemte å kopiere over den nye konfigen fra Mac til minnepinne.\n\nDet var på tide å ta kvelden da.\n",
+				"date_published": "2023-09-20T20:36:04+02:00",
+				"url": "https://teisam.net/2023/09/20/i-forbindelse-med.html"
+			},
+			{
+				"id": "http://teisam.micro.blog/2023/09/19/i-forbindelse-med.html",
+				
+				"content_html": "<p>I forbindelse med jobb har jeg tilgang til et datasenter. Som et krav for denne tilgangen må jeg delta på brannøvelser med jevne mellomrom, noe jeg var med på i dag. Og kom på at siste gang jeg brukte tilgangen var på forrige brannøvelse.</p>\n\n<p>Så kanskje ikke den mest prekære tilgangen jeg har.</p>\n",
+				"content_text": "I forbindelse med jobb har jeg tilgang til et datasenter. Som et krav for denne tilgangen må jeg delta på brannøvelser med jevne mellomrom, noe jeg var med på i dag. Og kom på at siste gang jeg brukte tilgangen var på forrige brannøvelse. \n\nSå kanskje ikke den mest prekære tilgangen jeg har. \n",
+				"date_published": "2023-09-19T22:26:12+02:00",
+				"url": "https://teisam.net/2023/09/19/i-forbindelse-med.html"
+			},
+			{
 				"id": "http://teisam.micro.blog/2023/09/18/frste-gang-man.html",
 				
 				"content_html": "<p>Første gang man ikke har installert betaOS på noen av «produksjonsdingsene». Så nå er det installparty.</p>\n",
@@ -57,8 +105,8 @@
 			{
 				"id": "http://teisam.micro.blog/2023/09/14/day-statue-it.html",
 				
-				"content_html": "<p>Day 14. <strong>statue</strong>. It is cold standing in a fountain.</p>\n\n<p>Dag 14. <strong>statue</strong>. Det er kaldt å stå i en fontene.</p>\n\n<p><img src=\"uploads/2023/a0ed1dade7.jpg\" width=\"600\" height=\"600\" alt=\"Statue in a fountain with a Bob Marley tee\"></p>\n",
-				"content_text": "Day 14. **statue**. It is cold standing in a fountain.\n\nDag 14. **statue**. Det er kaldt å stå i en fontene.\n\n<img src=\"uploads/2023/a0ed1dade7.jpg\" width=\"600\" height=\"600\" alt=\"Statue in a fountain with a Bob Marley tee\">\n",
+				"content_html": "<p>Day 14. <strong>statue</strong>. It is cold standing in a fountain.</p>\n\n<p>Dag 14. <strong>statue</strong>. Det er kaldt å stå i en fontene.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/2987/2023/a0ed1dade7.jpg\" width=\"600\" height=\"600\" alt=\"Statue in a fountain with a Bob Marley tee\"></p>\n",
+				"content_text": "Day 14. **statue**. It is cold standing in a fountain.\n\nDag 14. **statue**. Det er kaldt å stå i en fontene.\n\n<img src=\"https://cdn.uploads.micro.blog/2987/2023/a0ed1dade7.jpg\" width=\"600\" height=\"600\" alt=\"Statue in a fountain with a Bob Marley tee\">\n",
 				"date_published": "2023-09-14T20:40:40+02:00",
 				"url": "https://teisam.net/2023/09/14/day-statue-it.html"
 			},
