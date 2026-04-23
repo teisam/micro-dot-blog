@@ -24,6 +24,56 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://teisam.net/2026/04/23/llm-or-not-to-llm.html">LLM or not to LLM</a></h1>
+		
+
+		<a href="https://teisam.net/2026/04/23/llm-or-not-to-llm.html" class="u-url"><time class="dt-published" datetime="2026-04-23 22:45:08 &#43;0200">Apr 23, 2026</time></a>
+
+		<div class="e-content">
+			 <p>Mens det virker som om enkelte er coco crazy vedrørende «AI», enten man er for eller i mot slik det er nå, så har jeg et litt mer ambivalent forhold til det hele. Det meste er ikke min kopp te som det heter på gammelnorsk.</p>
+
+<p>Å spørre en LLM med tilbakemelding eller om tips for en tekst du skriver, helt ok. Men ikke la den skrive konfirmasjonstalen for deg.</p>
+
+<p>I det siste har jeg brukt Codex fra OpenAI for å lage to «programmer» (strengt tatt script) for meg. Den ene skulle la meg laste ned flasker med avhengigheter for Homebrew for riktig arkitektur (alle maskinene mine bortsett fra den viktigste på jobb er på nyeste macOS). Brukte litt tid på å få det til, men måtte til slutt forkaste v1. v2 baserer seg heller på at jeg har brukt Utm til å lage en kildemaskin med samme macOS som målmaskinen. Og bruker et script som bruker rsync til å kopiere den homebrewinstansen til en minnepinne, og det samme motsatt vei på målmaskinen.</p>
+
+<p>Og det fungerte strålende, så nå har jeg en metode på å holde min homebrew installert. Codex la også inn en backupfunksjon jeg ikke hadde bedt om. Nå er det jo litt tregt å kopiere maaaange små filer til en kryptert minnepinne, men alt i alt en smart funksjon i tilfelle noe blir fscket opp.</p>
+
+<p>Den andre var en funksjon for å logge inn og kjøre kommandoer på f.eks en ciscoboks, uten å logge inn manuelt, men hente passord fra nøkkelringen. En for del for meg er at da kan jeg pipe output flere ganger mens jeg bruker alt mulig fra av unixverktøy til å filtrere og manipulere resultatet</p>
+
+<p><code>ssh bruker@ciscoboks</code><br />
+<code>ciscoboks# sho int status | inc connected</code></p>
+
+<p>versus</p>
+
+<p><code>bash$ ccc ciscoboks sho int status | grep connected | grep -v trunk</code></p>
+
+<p>Med Codex fink jeg ikke helt den i mål (delvis pga tingen over). Selv om den virket greit når jeg testet mot en linuxmaskin.</p>
+
+<p>Men via Claude Code fikk jeg derimot et script som fungerte bedre (til slutt). Jeg er ingen utvikler, men har da litt forståelse. Første utgave fungerte halvveis. Men feilsøkingen via Claude Code imponerte meg en god del ettersom den foreslo faktiske debug-steg basert på mine tilbakemeldinger og kom med gode forklaringer om hva som feilen faktisk var. Codex var litt mer kjøre v1 -&gt; forklare feil -&gt; lage v2 -&gt; kjøre v2 -&gt; forklare feil -&gt; etc. uten at forklaringen var så veldig pedagogisk.</p>
+
+<p>Føltes litt mer lærerikt, og skjønner lovordene Claude Code har fått.</p>
+
+<p>En siste ting er å spørre en llm om et konkret problem noen ganger kan være litt mer behjelpelig med å skille hveten fra klinten, konkretisere litt mer hva jeg bør se og lese på.</p>
+
+<p>Jeg har et system som skal oppgraderes fra f.eks v3.2 til v4.2 (derav kan man f.eks anta at man også har v3.3, v3.4, v4.0, v4.1 osv). En LLM sa at jeg må oppgradere via alle mellomversjonene mellom 3.2 og 4.2, inkludert et stort antall rebooter. En annen sa at det skulle gå direkte.</p>
+
+<p>Basert på det jeg kunne lese meg frem til hadde siste LLM korrekt. Men alle har gode linker til dokumentasjon osv.</p>
+
+<p>Jeg har noen spesielle sære behov som jeg sikkert kunne løst med å lære meg litt mer bash eller være flinkere til å lese dokumentasjonen til f.eks rsync. Men både Codex og Claude Code brukte funksjoner og andre programmer jeg ikke visste eksisterte for å løse problemet jeg hadde.</p>
+
+<p>På en måte er det flott at jeg får lagd det lille «programmet» jeg ønsker meg. Men samtidig har jeg jo mistet det lille insentivet jeg hadde til å lære meg dette på egenhånd. Men på den andre siden, jeg har sett flere ikke-programmerere lage programmer på null komma niks for å løse problemer de har på sin måte. Og en LLM får de som oftest ikke helt i mål (akkurat nå), det er alltid noen prosenter man må løse helt på egenhånd.</p>
+
+<p>Og det fascinerer meg.</p>
+
+<p>Men selvsagt, all hypen, all ai-skvipet, alle ressursene de bruker og suger til seg, det kunne jeg klart meg uten.</p>
+
+<p>Så. Veldig ambivalent. Jeg ser problemet. Men jeg ser også nytteverdien.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://teisam.net/2026/04/22/peaky-blinders.html">Peaky Blinders 📺</a></h1>
 		
 
@@ -103,7 +153,7 @@
 		<div class="e-content">
 			 <p>The duality of man … weather.</p>
 
-<p><img src="uploads/2026/a0be9518b6.jpg" width="600" height="600" alt="Et bylandskap ses under en skyet himmel med lavt hengende skyer og svak tåke som svever nær bakken."></p>
+<p><img src="https://cdn.uploads.micro.blog/2987/2026/a0be9518b6.jpg" width="600" height="600" alt="Et bylandskap ses under en skyet himmel med lavt hengende skyer og svak tåke som svever nær bakken."></p>
 
 		</div>
 	  </div>
@@ -139,7 +189,7 @@
 		<a href="https://teisam.net/2026/03/29/ingen-har-sett-historien-din.html" class="u-url"><time class="dt-published" datetime="2026-03-29 16:36:58 &#43;0200">Mar 29, 2026</time></a>
 
 		<div class="e-content">
-			 <p><img src="uploads/2026/ingenharsetthistoriendin.jpg" alt="Ingen har sett historien din, forsiden av roman skrevet av Maren Skolem" title="ingenharsetthistoriendin.jpg" border="0" width="384" height="600" /></p>
+			 <p><img src="https://cdn.uploads.micro.blog/2987/2026/ingenharsetthistoriendin.jpg" alt="Ingen har sett historien din, forsiden av roman skrevet av Maren Skolem" title="ingenharsetthistoriendin.jpg" border="0" width="384" height="600" /></p>
 
 <p><a href="https://www.gyldendal.no/skjoennlitteratur/romaner-og-noveller/ingen-har-sett-historien-din/p-vxyzdnnsrg">Ingen har sett historien din</a> av Maren Skolem som er hennes andre «voksen» roman (og fjerde totalt). Jeg har ikke lest noen av de foregående.</p>
 
@@ -199,7 +249,7 @@
 		<div class="e-content">
 			 <p>Er på dette stedet igjen.</p>
 
-<p><img src="https://cdn.uploads.micro.blog/2987/2026/c44e077abe.jpg" width="450" height="600" alt="Et tog med røde bokstaver står ved en plattform med gule sikkerhetslinjer."></p>
+<p><img src="uploads/2026/c44e077abe.jpg" width="450" height="600" alt="Et tog med røde bokstaver står ved en plattform med gule sikkerhetslinjer."></p>
 
 		</div>
 	  </div>
@@ -250,7 +300,7 @@
 		<a href="https://teisam.net/2026/03/14/ballerina.html" class="u-url"><time class="dt-published" datetime="2026-03-14 22:52:25 &#43;0200">Mar 14, 2026</time></a>
 
 		<div class="e-content">
-			 <p><img src="https://cdn.uploads.micro.blog/2987/2026/ballerina.jpg" alt="Ballerina" title="ballerina.JPG" border="0" width="600" height="315" /></p>
+			 <p><img src="uploads/2026/ballerina.jpg" alt="Ballerina" title="ballerina.JPG" border="0" width="600" height="315" /></p>
 
 <p>WFTW er jo selvsagt Wickiverse For The Win. Ettersom <a href="https://www.imdb.com/title/tt7181546/?ref_=fn_t_1">Ballerina</a> var tydeligvis ikke bra nok som tittel, så heter den jo faktisk «From the World of John Wick: Ballerina». Som er en munnfull.</p>
 
@@ -546,7 +596,7 @@
 		<a href="https://teisam.net/2026/01/17/204311.html" class="u-url"><time class="dt-published" datetime="2026-01-17 20:43:11 &#43;0100">Jan 17, 2026</time></a>
 
 		<div class="e-content">
-			 <p><img src="uploads/2026/fc6bf6ea2d.jpg" width="600" height="315" alt="En gruppe superhelter står samlet i en bysetting, inkludert en mann med langt hår og en kvinne med kort blondt hår."></p>
+			 <p><img src="https://cdn.uploads.micro.blog/2987/2026/fc6bf6ea2d.jpg" width="600" height="315" alt="En gruppe superhelter står samlet i en bysetting, inkludert en mann med langt hår og en kvinne med kort blondt hår."></p>
 
 <p>Følgende gjelder fortsatt</p>
 
